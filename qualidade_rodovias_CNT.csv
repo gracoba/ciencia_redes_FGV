@@ -1,506 +1,506 @@
-Ranking;Rodovia;SobreposiÃ§Ãµes existentes;UF;RegiÃ£o;MunicÃ­pio inicial;MunicÃ­pio final;JurisdiÃ§Ã£o;GestÃ£o;ExtensÃ£o pesquisada (KM);Escalas de extensÃ£o;ClassificaÃ§Ã£o geral
-505;BR-163;BR-282;SC;Sul;DionÃ­sio Cerqueira;SÃ£o Miguel do Oeste;Federal;PÃºblica;59;AtÃ© 100 km;PÃ©ssimo
-504;RS-153;BR-153 BR-471;RS;Sul;Barros Cassal;Vera Cruz;Estadual;PÃºblica;82;AtÃ© 100 km;PÃ©ssimo
-503;AC-405;BR-364;AC;Norte;MÃ¢ncio Lima;Rodrigues Alves;Estadual;PÃºblica;64;AtÃ© 100 km;PÃ©ssimo
-502;AC-010;-;AC;Norte;Porto Acre;Rio Branco;Estadual;PÃºblica;66;AtÃ© 100 km;PÃ©ssimo
-501;AM-010;-;AM;Norte;Manaus;Itacoatiara;Estadual;PÃºblica;253;Mais de 250 km atÃ© 500 km;PÃ©ssimo
-500;BA-122;BR-122, BR-330, BR-349;BA;Nordeste;Morro do ChapÃ©u;Seabra;Estadual;PÃºblica;126;Mais de 100 km atÃ© 250 km;PÃ©ssimo
-499;PE-177;-;PE;Nordeste;QuipapÃ¡;Garanhuns;Estadual;PÃºblica;55;AtÃ© 100 km;PÃ©ssimo
-498;PE-545;BR-122;PE;Nordeste;Exu;Ouricuri;Estadual;PÃºblica;76;AtÃ© 100 km;PÃ©ssimo
-497;MA-006;BR-330;MA;Nordeste;Buriticupu;Alto ParnaÃ­ba;Estadual;PÃºblica;652;Mais de 500 km;PÃ©ssimo
-496;PE-096;-;PE;Nordeste;Palmares;Barreiros;Estadual;PÃºblica;50;AtÃ© 100 km;PÃ©ssimo
-495;RJ-148;-;RJ;Sudeste;Carmo;Nova Friburgo;Estadual;PÃºblica;63;AtÃ© 100 km;PÃ©ssimo
-494;BR-364;BR-307;AC;Norte;Cruzeiro do Sul;AcrelÃ¢ndia;Federal;PÃºblica;762;Mais de 500 km;PÃ©ssimo
-493;TO-335;-;TO;Norte;Palmeirante;Couto MagalhÃ£es;Estadual;PÃºblica;183;Mais de 100 km atÃ© 250 km;PÃ©ssimo
-492;PE-126;-;PE;Nordeste;Palmares;QuipapÃ¡;Estadual;PÃºblica;55;AtÃ© 100 km;PÃ©ssimo
-491;RS-471;BR-471;RS;Sul;Pantano Grande;CanguÃ§u;Estadual;PÃºblica;128;Mais de 100 km atÃ© 250 km;PÃ©ssimo
-490;PI-141;BR-324;PI;Nordeste;Eliseu Martins;SÃ£o JoÃ£o do PiauÃ­;Estadual;PÃºblica;176;Mais de 100 km atÃ© 250 km;PÃ©ssimo
-489;BR-421;-;RO;Norte;Ariquemes;Monte Negro;Federal;PÃºblica;70;AtÃ© 100 km;PÃ©ssimo
-488;PB-066;BR-408;PB;Nordeste;IngÃ¡;Juripiranga;Estadual;PÃºblica;54;AtÃ© 100 km;PÃ©ssimo
-487;BA-142;BR-407;BA;Nordeste;TanhaÃ§u;AnagÃ©;Estadual;PÃºblica;57;AtÃ© 100 km;PÃ©ssimo
-486;BR-155;-;PA;Norte;MarabÃ¡;RedenÃ§Ã£o;Federal;PÃºblica;345;Mais de 250 km atÃ© 500 km;PÃ©ssimo
-485;MG-190;-;MG;Sudeste;Abadia dos Dourados;Romaria;Estadual;PÃºblica;58;AtÃ© 100 km;PÃ©ssimo
-484;PB-386;BR-361;PB;Nordeste;Itaporanga;ConceiÃ§Ã£o;Estadual;PÃºblica;58;AtÃ© 100 km;Ruim
-483;MG-462;BR-462;MG;Sudeste;PatrocÃ­nio;Perdizes;Estadual;PÃºblica;69;AtÃ© 100 km;Ruim
-482;BA-026;BR-030, BR-330, BR-407;BA;Nordeste;MaracÃ¡s;TanhaÃ§u;Estadual;PÃºblica;113;Mais de 100 km atÃ© 250 km;Ruim
-481;SC-350;-;SC;Sul;Ãgua Doce;Santa CecÃ­lia;Estadual;PÃºblica;131;Mais de 100 km atÃ© 250 km;Ruim
-480;MA-034;BR-222;MA;Nordeste;TutÃ³ia;Brejo;Estadual;PÃºblica;161;Mais de 100 km atÃ© 250 km;Ruim
-479;GO-184;BR-158;GO;Centro-Oeste;JataÃ­;AporÃ©;Estadual;PÃºblica;145;Mais de 100 km atÃ© 250 km;Ruim
-478;PB-238;-;PB;Nordeste;AssunÃ§Ã£o;Teixeira;Estadual;PÃºblica;74;AtÃ© 100 km;Ruim
-477;TO-387;-;TO;Norte;ParanÃ£;JaÃº do Tocantins;Estadual;PÃºblica;125;Mais de 100 km atÃ© 250 km;Ruim
-476;PE-604;BR-122;PE;Nordeste;Ouricuri;Lagoa Grande;Estadual;PÃºblica;127;Mais de 100 km atÃ© 250 km;Ruim
-475;MA-106;BR-308;MA;Nordeste;Governador Nunes Freire;AlcÃ¢ntara;Estadual;PÃºblica;239;Mais de 100 km atÃ© 250 km;Ruim
-474;MS-377;-;MS;Centro-Oeste;InocÃªncia;Ãgua Clara;Estadual;PÃºblica;128;Mais de 100 km atÃ© 250 km;Ruim
-473;GO-142;-;GO;Centro-Oeste;Montividiu do Norte;Formoso;Estadual;PÃºblica;75;AtÃ© 100 km;Ruim
-472;RJ-155;BR-494;RJ;Sudeste;Barra Mansa;Angra dos Reis;Estadual;PÃºblica;78;AtÃ© 100 km;Ruim
-471;RS-640;-;RS;Sul;SÃ£o Vicente do Sul;RosÃ¡rio do Sul;Estadual;PÃºblica;64;AtÃ© 100 km;Ruim
-470;PE-265;BR-110;PE;Nordeste;SertÃ¢nia;SertÃ¢nia;Estadual;PÃºblica;50;AtÃ© 100 km;Ruim
-469;MS-240;-;MS;Centro-Oeste;ParanaÃ­ba;InocÃªncia;Estadual;PÃºblica;81;AtÃ© 100 km;Ruim
-468;SC-135;-;SC;Sul;CaÃ§ador;TangarÃ¡;Estadual;PÃºblica;58;AtÃ© 100 km;Ruim
-467;BR-158;BR-060, BR-070, BR-364;GO;Centro-Oeste;AragarÃ§as;JataÃ­;Federal;PÃºblica;281;Mais de 250 km atÃ© 500 km;Ruim
-466;SE-170;BR-349, SE-270;SE;Nordeste;Moita Bonita;Tobias Barreto;Estadual;PÃºblica;101;Mais de 100 km atÃ© 250 km;Ruim
-465;RS-377;BR-377;RS;Sul;JÃ³ia;Alegrete;Estadual;PÃºblica;232;Mais de 100 km atÃ© 250 km;Ruim
-464;MA-006;BR-308;MA;Nordeste;Cururupu;Pinheiro;Estadual;PÃºblica;98;AtÃ© 100 km;Ruim
-463;PB-400;-;PB;Nordeste;Cajazeiras;ConceiÃ§Ã£o;Estadual;PÃºblica;102;Mais de 100 km atÃ© 250 km;Ruim
-462;PE-275;BR-110;PE;Nordeste;Brejinho;SertÃ¢nia;Estadual;PÃºblica;104;Mais de 100 km atÃ© 250 km;Ruim
-461;GO-050;BR-060;GO;Centro-Oeste;JataÃ­;ChapadÃ£o do CÃ©u;Estadual;PÃºblica;126;Mais de 100 km atÃ© 250 km;Ruim
-460;RS-472;BR-472;RS;Sul;Frederico Westphalen;TrÃªs Passos;Estadual;PÃºblica;70;AtÃ© 100 km;Ruim
-459;GO-330;BR-352, BR-457;GO;Centro-Oeste;AnÃ¡polis;CatalÃ£o;Estadual;PÃºblica;219;Mais de 100 km atÃ© 250 km;Ruim
-458;MG-482;BR-356, BR-482;MG;Sudeste;Conselheiro Lafaiete;ViÃ§osa;Estadual;PÃºblica;129;Mais de 100 km atÃ© 250 km;Ruim
-457;MT-343;-;MT;Centro-Oeste;ArenÃ¡polis;Barra do Bugres;Estadual;PÃºblica;78;AtÃ© 100 km;Ruim
-456;PE-060;-;PE;Nordeste;Cabo de Santo Agostinho;Barreiros;Estadual;PÃºblica;73;AtÃ© 100 km;Ruim
-455;MG-290;-;MG;Sudeste;Pouso Alegre;Jacutinga;Estadual;PÃºblica;98;AtÃ© 100 km;Ruim
-454;MG-265;BR-265;MG;Sudeste;UbÃ¡;MercÃªs;Estadual;PÃºblica;68;AtÃ© 100 km;Ruim
-453;PE-090;-;PE;Nordeste;Carpina;Vertentes;Estadual;PÃºblica;94;AtÃ© 100 km;Ruim
-452;RS-481;BR-481;RS;Sul;Cruz Alta;Novo Cabrais;Estadual;PÃºblica;133;Mais de 100 km atÃ© 250 km;Ruim
-451;TO-050;BR-010;TO;Norte;Palmas;SilvanÃ³polis;Estadual;PÃºblica;106;Mais de 100 km atÃ© 250 km;Ruim
-450;SC-305;-;SC;Sul;SÃ£o LourenÃ§o do Oeste;Guaraciaba;Estadual;PÃºblica;71;AtÃ© 100 km;Ruim
-449;BR-352;-;MG;Sudeste;AbaetÃ©;ParÃ¡ de Minas;Federal;PÃºblica;122;Mais de 100 km atÃ© 250 km;Ruim
-448;GO-164;BR-483;GO;Centro-Oeste;QuirinÃ³polis;SÃ£o SimÃ£o;Estadual;PÃºblica;70;AtÃ© 100 km;Ruim
-447;MG-427;-;MG;Sudeste;Uberaba;Planura;Estadual;PÃºblica;104;Mais de 100 km atÃ© 250 km;Ruim
-446;BA-130;BR-407;BA;Nordeste;Capim Grosso;Boa Vista do Tupim;Estadual;PÃºblica;161;Mais de 100 km atÃ© 250 km;Ruim
-445;MG-267;BR-267, BR-383;MG;Sudeste;Campanha;Caxambu;Estadual;PÃºblica;69;AtÃ© 100 km;Ruim
-444;TO-498;-;TO;Norte;Peixe;JaÃº do Tocantins;Estadual;PÃºblica;79;AtÃ© 100 km;Ruim
-443;PR-317;-;PR;Sul;Toledo;Santa Helena;Estadual;PÃºblica;89;AtÃ© 100 km;Ruim
-442;PR-092;BR-272;PR;Sul;Santo AntÃ´nio da Platina;JaguariaÃ­va;Estadual;PÃºblica;128;Mais de 100 km atÃ© 250 km;Ruim
-441;AP-010;-;AP;Norte;MacapÃ¡;MazagÃ£o;Estadual;PÃºblica;70;AtÃ© 100 km;Ruim
-440;PA-150;-;PA;Norte;TailÃ¢ndia;MarabÃ¡;Estadual;PÃºblica;333;Mais de 250 km atÃ© 500 km;Ruim
-439;BR-158;-;PA;Norte;RedenÃ§Ã£o;Santana do Araguaia;Federal;PÃºblica;306;Mais de 250 km atÃ© 500 km;Ruim
-438;RS-020;-;RS;Sul;TrÃªs Coroas;GravataÃ­;Estadual;PÃºblica;62;AtÃ© 100 km;Ruim
-437;RN-118;-;RN;Nordeste;Macau;ItajÃ¡;Estadual;PÃºblica;73;AtÃ© 100 km;Ruim
-436;MG-383;BR-383;MG;Sudeste;Madre de Deus de Minas;CruzÃ­lia;Estadual;PÃºblica;69;AtÃ© 100 km;Ruim
-435;GO-341;BR-359;GO;Centro-Oeste;Mineiros;Mineiros;Estadual;PÃºblica;113;Mais de 100 km atÃ© 250 km;Ruim
-434;PA-287;-;PA;Norte;RedenÃ§Ã£o;ConceiÃ§Ã£o do Araguaia;Estadual;PÃºblica;98;AtÃ© 100 km;Ruim
-433;MG-482;BR-482;MG;Sudeste;Espera Feliz;Fervedouro;Estadual;PÃºblica;63;AtÃ© 100 km;Ruim
-432;BA-130;BR-330;BA;Nordeste;MaracÃ¡s;JequiÃ©;Estadual;PÃºblica;68;AtÃ© 100 km;Ruim
-431;SC-283;BR-283;SC;Sul;Palmitos;ConcÃ³rdia;Estadual;PÃºblica;164;Mais de 100 km atÃ© 250 km;Ruim
-430;BA-161;-;BA;Nordeste;Bom Jesus da Lapa;Carinhanha;Estadual;PÃºblica;129;Mais de 100 km atÃ© 250 km;Ruim
-429;RSC-101;BR-101;RS;Sul;Capivari do Sul;SÃ£o JosÃ© do Norte;Estadual;PÃºblica;243;Mais de 100 km atÃ© 250 km;Ruim
-428;BR-174;BR-319;AM;Norte;Presidente Figueiredo;Borba;Federal;PÃºblica;470;Mais de 250 km atÃ© 500 km;Ruim
-427;GO-206;BR-154, BR-483;GO;Centro-Oeste;Itumbiara;ItarumÃ£;Estadual;PÃºblica;226;Mais de 100 km atÃ© 250 km;Ruim
-426;ES-137;BR-381;ES;Sudeste;Nova VenÃ©cia;SÃ£o Domingos do Norte;Estadual;PÃºblica;63;AtÃ© 100 km;Ruim
-425;PE-360;-;PE;Nordeste;Ibimirim;Floresta;Estadual;PÃºblica;101;Mais de 100 km atÃ© 250 km;Ruim
-424;MG-383;BR-383, BR-494;MG;Sudeste;Congonhas;SÃ£o JoÃ£o del Rei;Estadual;PÃºblica;108;Mais de 100 km atÃ© 250 km;Ruim
-423;TO-020;BR-010;TO;Norte;Aparecida do Rio Negro;Palmas;Estadual;PÃºblica;66;AtÃ© 100 km;Ruim
-422;MG-381;BR-381;MG;Sudeste;Mantena;GalilÃ©ia;Estadual;PÃºblica;109;Mais de 100 km atÃ© 250 km;Ruim
-421;BR-317;-;AC;Norte;Senador Guiomard;Assis Brasil;Federal;PÃºblica;412;Mais de 250 km atÃ© 500 km;Ruim
-420;RJ-130;BR-492;RJ;Sudeste;Nova Friburgo;TeresÃ³polis;Estadual;PÃºblica;70;AtÃ© 100 km;Ruim
-419;MG-401;-;MG;Sudeste;JaÃ­ba;JanaÃºba;Estadual;PÃºblica;86;AtÃ© 100 km;Ruim
-418;MG-354;BR-354;MG;Sudeste;Guarda-Mor;Patos de Minas;Estadual;PÃºblica;133;Mais de 100 km atÃ© 250 km;Ruim
-417;BR-317;-;AM;Norte;Boca do Acre;LÃ¡brea;Federal;PÃºblica;70;AtÃ© 100 km;Ruim
-416;BR-424;-;PE;Nordeste;Arcoverde;Correntes;Federal;PÃºblica;135;Mais de 100 km atÃ© 250 km;Ruim
-415;BA-330;BR-330;BA;Nordeste;Gentio do Ouro;Gentio do Ouro;Estadual;PÃºblica;54;AtÃ© 100 km;Ruim
-414;BR-158;-;PR;Sul;Palmital;Laranjeiras do Sul;Federal;PÃºblica;75;AtÃ© 100 km;Ruim
-413;MG-188;BR-354;MG;Sudeste;UnaÃ­;PatrocÃ­nio;Estadual;PÃºblica;311;Mais de 250 km atÃ© 500 km;Ruim
-412;MG-122;BR-122;MG;Sudeste;Espinosa;Francisco SÃ¡;Estadual;PÃºblica;263;Mais de 250 km atÃ© 500 km;Ruim
-411;RSC-453;BR-453;RS;Sul;SÃ£o Francisco de Paula;Caxias do Sul;Estadual;PÃºblica;53;AtÃ© 100 km;Ruim
-410;BR-153;BR-280, BR-476;PR;Sul;Imbituva;General Carneiro;Federal;PÃºblica;226;Mais de 100 km atÃ© 250 km;Ruim
-409;BR-420;BR-101;BA;Nordeste;Santo AntÃ´nio de Jesus;Jaguaquara;Federal;PÃºblica;151;Mais de 100 km atÃ© 250 km;Ruim
-408;TO-010;-;TO;Norte;Lajeado;Palmas;Estadual;PÃºblica;62;AtÃ© 100 km;Ruim
-407;MG-369;BR-369;MG;Sudeste;Oliveira;Alfenas;Estadual;PÃºblica;172;Mais de 100 km atÃ© 250 km;Ruim
-406;SC-480;BR-480;SC;Sul;SÃ£o LourenÃ§o do Oeste;ChapecÃ³;Estadual;PÃºblica;129;Mais de 100 km atÃ© 250 km;Ruim
-405;SP-171;-;SP;Sudeste;GuaratinguetÃ¡;Cunha;Estadual;PÃºblica;71;AtÃ© 100 km;Ruim
-404;BR-319;BR-174, BR-230;AM;Norte;Careiro da VÃ¡rzea;Canutama;Federal;PÃºblica;402;Mais de 250 km atÃ© 500 km;Ruim
-403;BR-122;BR-116;CE;Nordeste;Chorozinho;SolonÃ³pole;Federal;PÃºblica;210;Mais de 100 km atÃ© 250 km;Ruim
-402;MG-460;BR-460;MG;Sudeste;Cambuquira;Pouso Alto;Estadual;PÃºblica;79;AtÃ© 100 km;Ruim
-401;RS-324;-;RS;Sul;Passo Fundo;Nova Prata;Estadual;PÃºblica;113;Mais de 100 km atÃ© 250 km;Ruim
-400;RS-030;-;RS;Sul;GravataÃ­;TramandaÃ­;Estadual;PÃºblica;98;AtÃ© 100 km;Ruim
-399;MG-497;BR-464, BR-497;MG;Sudeste;UberlÃ¢ndia;Carneirinho;Estadual;PÃºblica;309;Mais de 250 km atÃ© 500 km;Ruim
-398;MT-449;-;MT;Centro-Oeste;Tapurah;Lucas do Rio Verde;Estadual;Concessionada;73;AtÃ© 100 km;Ruim
-397;CE-375;BR-122;CE;Nordeste;SolonÃ³pole;QuixelÃ´;Estadual;PÃºblica;66;AtÃ© 100 km;Ruim
-396;MG-452;BR-452;MG;Sudeste;AraporÃ£;Nova Ponte;Estadual;PÃºblica;155;Mais de 100 km atÃ© 250 km;Ruim
-395;RJ-158;BR-492;RJ;Sudeste;SÃ£o FidÃ©lis;Campos dos Goytacazes;Estadual;PÃºblica;62;AtÃ© 100 km;Ruim
-394;RS-472;BR-472;RS;Sul;Santo Cristo;Porto Xavier;Estadual;PÃºblica;60;AtÃ© 100 km;Ruim
-393;PI-140;BR-324;PI;Nordeste;Floriano;Dirceu Arcoverde;Estadual;PÃºblica;320;Mais de 250 km atÃ© 500 km;Ruim
-392;BR-383;BR-459;MG;Sudeste;ItajubÃ¡;Delfim Moreira;Federal;PÃºblica;53;AtÃ© 100 km;Ruim
-391;RJ-186;BR-393, BR-484;RJ;Sudeste;Bom Jesus do Itabapoana;Santo AntÃ´nio de PÃ¡dua;Estadual;PÃºblica;103;Mais de 100 km atÃ© 250 km;Ruim
-390;ES-010;-;ES;Sudeste;Aracruz;Serra;Estadual;PÃºblica;60;AtÃ© 100 km;Ruim
-389;SP-079;BR-478;SP;Sudeste;Sorocaba;JuquiÃ¡;Estadual;PÃºblica;122;Mais de 100 km atÃ© 250 km;Ruim
-388;BR-435;BR-364;RO;Norte;Vilhena;Pimenteiras do Oeste;Federal;PÃºblica;176;Mais de 100 km atÃ© 250 km;Ruim
-387;RS-235;-;RS;Sul;Nova PetrÃ³polis;SÃ£o Francisco de Paula;Estadual;Concessionada;75;AtÃ© 100 km;Regular
-386;GO-010;BR-457;GO;Centro-Oeste;LuziÃ¢nia;GoiÃ¢nia;Estadual;PÃºblica;184;Mais de 100 km atÃ© 250 km;Regular
-385;TO-280;BR-010;TO;Norte;Almas;Peixe;Estadual;PÃºblica;180;Mais de 100 km atÃ© 250 km;Regular
-384;GO-174;-;GO;Centro-Oeste;IporÃ¡;Rio Verde;Estadual;PÃºblica;170;Mais de 100 km atÃ© 250 km;Regular
-383;BR-153;BR-230;PA;Norte;MarabÃ¡;SÃ£o Geraldo do Araguaia;Federal;PÃºblica;153;Mais de 100 km atÃ© 250 km;Regular
-382;BR-222;BR-010;PA;Norte;Dom Eliseu;MarabÃ¡;Federal;PÃºblica;246;Mais de 100 km atÃ© 250 km;Regular
-381;MG-179;-;MG;Sudeste;Alfenas;Pouso Alegre;Estadual;PÃºblica;104;Mais de 100 km atÃ© 250 km;Regular
-380;MT-358;-;MT;Centro-Oeste;TangarÃ¡ da Serra;Barra do Bugres;Estadual;PÃºblica;127;Mais de 100 km atÃ© 250 km;Regular
-379;BR-354;BR-267, BR-383;MG;Sudeste;Baependi;Itamonte;Federal;PÃºblica;84;AtÃ© 100 km;Regular
-378;MT-235;-;MT;Centro-Oeste;Sapezal;Campo Novo do Parecis;Estadual;PÃºblica;105;Mais de 100 km atÃ© 250 km;Regular
-377;MG-262;-;MG;Sudeste;Mariana;Ponte Nova;Estadual;PÃºblica;73;AtÃ© 100 km;Regular
-376;BR-352;-;MG;Sudeste;Abadia dos Dourados;Coromandel;Federal;PÃºblica;67;AtÃ© 100 km;Regular
-375;PR-317;-;PR;Sul;Santo InÃ¡cio;MaringÃ¡;Estadual;PÃºblica;94;AtÃ© 100 km;Regular
-374;MG-455;BR-455;MG;Sudeste;UberlÃ¢ndia;Planura;Estadual;PÃºblica;106;Mais de 100 km atÃ© 250 km;Regular
-373;BR-226;BR-116;CE;Nordeste;CrateÃºs;Pereiro;Federal;PÃºblica;270;Mais de 250 km atÃ© 500 km;Regular
-372;RJ-106;-;RJ;Sudeste;SÃ£o Pedro da Aldeia;SÃ£o GonÃ§alo;Estadual;PÃºblica;112;Mais de 100 km atÃ© 250 km;Regular
-371;MG-259;BR-259, BR-367;MG;Sudeste;FelixlÃ¢ndia;Governador Valadares;Estadual;PÃºblica;409;Mais de 250 km atÃ© 500 km;Regular
-370;MG-135;BR-135;MG;Sudeste;SÃ£o JoÃ£o das MissÃµes;Montes Claros;Estadual;PÃºblica;241;Mais de 100 km atÃ© 250 km;Regular
-369;MG-367;BR-367, BR-451;MG;Sudeste;Turmalina;Datas;Estadual;PÃºblica;190;Mais de 100 km atÃ© 250 km;Regular
-368;MG-120;BR-120, BR-356, BR-451;MG;Sudeste;Capelinha;Visconde do Rio Branco;Estadual;PÃºblica;498;Mais de 250 km atÃ© 500 km;Regular
-367;PR-170;-;PR;Sul;Guarapuava;General Carneiro;Estadual;PÃºblica;178;Mais de 100 km atÃ© 250 km;Regular
-366;CE-060;-;CE;Nordeste;QuixadÃ¡;Senador Pompeu;Estadual;PÃºblica;82;AtÃ© 100 km;Regular
-365;MT-246;-;MT;Centro-Oeste;Barra do Bugres;Jangada;Estadual;PÃºblica;85;AtÃ© 100 km;Regular
-364;MG-491;BR-491;MG;Sudeste;SÃ£o SebastiÃ£o do ParaÃ­so;TrÃªs CoraÃ§Ãµes;Estadual;PÃºblica;229;Mais de 100 km atÃ© 250 km;Regular
-363;PR-280;BR-280;PR;Sul;Marmeleiro;General Carneiro;Estadual;PÃºblica;175;Mais de 100 km atÃ© 250 km;Regular
-362;PR-082;BR-487;PR;Sul;Alto ParaÃ­so;Umuarama;Estadual;PÃºblica;78;AtÃ© 100 km;Regular
-361;TO-080;-;TO;Norte;Caseara;Palmas;Estadual;PÃºblica;262;Mais de 250 km atÃ© 500 km;Regular
-360;BR-472;BR-290, BR-293;RS;Sul;SÃ£o Borja;Barra do QuaraÃ­;Federal;PÃºblica;251;Mais de 250 km atÃ© 500 km;Regular
-359;BR-280;-;SC;Sul;SÃ£o Francisco do Sul;Porto UniÃ£o;Federal;PÃºblica;301;Mais de 250 km atÃ© 500 km;Regular
-358;TO-336;-;TO;Norte;Couto MagalhÃ£es;GuaraÃ­;Estadual;PÃºblica;117;Mais de 100 km atÃ© 250 km;Regular
-357;BR-430;BR-349;BA;Nordeste;Bom Jesus da Lapa;CaetitÃ©;Federal;PÃºblica;153;Mais de 100 km atÃ© 250 km;Regular
-356;SC-157;-;SC;Sul;SÃ£o LourenÃ§o do Oeste;ChapecÃ³;Estadual;PÃºblica;95;AtÃ© 100 km;Regular
-355;GO-020;BR-352;GO;Centro-Oeste;GoiÃ¢nia;UrutaÃ­;Estadual;PÃºblica;149;Mais de 100 km atÃ© 250 km;Regular
-354;TO-040;-;TO;Norte;Almas;Ponte Alta do Bom Jesus;Estadual;PÃºblica;113;Mais de 100 km atÃ© 250 km;Regular
-353;MS-134;BR-376;MS;Centro-Oeste;Nova Andradina;BatayporÃ£;Estadual;PÃºblica;66;AtÃ© 100 km;Regular
-352;MG-123;BR-262;MG;Sudeste;JoÃ£o Monlevade;Dom SilvÃ©rio;Estadual;PÃºblica;55;AtÃ© 100 km;Regular
-351;PA-150;-;PA;Norte;Marituba;Barcarena;Estadual;PÃºblica;70;AtÃ© 100 km;Regular
-350;BR-474;-;MG;Sudeste;AimorÃ©s;Caratinga;Federal;PÃºblica;151;Mais de 100 km atÃ© 250 km;Regular
-349;BR-251;-;MG;Sudeste;UnaÃ­;UnaÃ­;Federal;PÃºblica;92;AtÃ© 100 km;Regular
-348;CE-187;BR-403;CE;Nordeste;Ipu;CrateÃºs;Estadual;PÃºblica;117;Mais de 100 km atÃ© 250 km;Regular
-347;BR-222;BR-010, BR-135, BR-316;MA;Nordeste;Chapadinha;Itinga do MaranhÃ£o;Federal;PÃºblica;665;Mais de 500 km;Regular
-346;BR-156;BR-210;AP;Norte;Oiapoque;MacapÃ¡;Federal;PÃºblica;442;Mais de 250 km atÃ© 500 km;Regular
-345;BR-402;BR-403;CE;Nordeste;Marco;Umirim;Federal;PÃºblica;124;Mais de 100 km atÃ© 250 km;Regular
-344;CE-085;BR-402;CE;Nordeste;Cruz;Chaval;Estadual;PÃºblica;144;Mais de 100 km atÃ© 250 km;Regular
-343;BR-361;BR-426;PB;Nordeste;Patos;Itaporanga;Federal;PÃºblica;114;Mais de 100 km atÃ© 250 km;Regular
-342;BR-367;BR-342;MG;Sudeste;Jacinto;AraÃ§uaÃ­;Federal;PÃºblica;228;Mais de 100 km atÃ© 250 km;Regular
-341;BR-153;-;SC;Sul;Ãgua Doce;ConcÃ³rdia;Federal;PÃºblica;119;Mais de 100 km atÃ© 250 km;Regular
-340;MG-342;BR-342;MG;Sudeste;Salinas;AraÃ§uaÃ­;Estadual;PÃºblica;108;Mais de 100 km atÃ© 250 km;Regular
-339;BR-280;BR-163, BR-373;PR;Sul;Marmeleiro;BarracÃ£o;Federal;PÃºblica;72;AtÃ© 100 km;Regular
-338;SE-270;BR-349;SE;Nordeste;SimÃ£o Dias;Itaporanga d'Ajuda;Estadual;PÃºblica;62;AtÃ© 100 km;Regular
-337;ES-381;BR-381;ES;Sudeste;SÃ£o Mateus;Barra de SÃ£o Francisco;Estadual;PÃºblica;112;Mais de 100 km atÃ© 250 km;Regular
-336;BR-116;BR-324;BA;Nordeste;AbarÃ©;Feira de Santana;Federal;PÃºblica;436;Mais de 250 km atÃ© 500 km;Regular
-335;BR-101;BR-040, BR-116, BR-459, BR-465, BR-494;RJ;Sudeste;Rio de Janeiro;Paraty;Federal;PÃºblica;264;Mais de 250 km atÃ© 500 km;Regular
-334;BR-122;BR-030;BA;Nordeste;CaetitÃ©;Urandi;Federal;PÃºblica;152;Mais de 100 km atÃ© 250 km;Regular
-333;BR-470;BR-285, BR-453;RS;Sul;BarracÃ£o;SÃ£o JerÃ´nimo;Federal;PÃºblica;293;Mais de 250 km atÃ© 500 km;Regular
-332;BR-470;BR-282, BR-283, BR-477;SC;Sul;Navegantes;Campos Novos;Federal;PÃºblica;359;Mais de 250 km atÃ© 500 km;Regular
-331;BR-476;BR-153, BR-277, BR-376;PR;Sul;AdrianÃ³polis;UniÃ£o da VitÃ³ria;Federal;PÃºblica;314;Mais de 250 km atÃ© 500 km;Regular
-330;BR-342;-;ES;Sudeste;Ecoporanga;Nova VenÃ©cia;Federal;PÃºblica;62;AtÃ© 100 km;Regular
-329;CE-362;-;CE;Nordeste;Granja;Sobral;Estadual;PÃºblica;101;Mais de 100 km atÃ© 250 km;Regular
-328;BA-131;-;BA;Nordeste;Jacobina;Piritiba;Estadual;PÃºblica;66;AtÃ© 100 km;Regular
-327;CE-292;BR-122, BR-230;CE;Nordeste;Salitre;Juazeiro do Norte;Estadual;PÃºblica;153;Mais de 100 km atÃ© 250 km;Regular
-326;MG-154;BR-154;MG;Sudeste;Cachoeira Dourada;Ituiutaba;Estadual;PÃºblica;56;AtÃ© 100 km;Regular
-325;MG-418;BR-418;MG;Sudeste;TeÃ³filo Otoni;Serra dos AimorÃ©s;Estadual;PÃºblica;179;Mais de 100 km atÃ© 250 km;Regular
-324;MG-215;BR-251;MG;Sudeste;UnaÃ­;BonfinÃ³polis de Minas;Estadual;PÃºblica;82;AtÃ© 100 km;Regular
-323;MT-240;-;MT;Centro-Oeste;Diamantino;ArenÃ¡polis;Estadual;PÃºblica;59;AtÃ© 100 km;Regular
-322;GO-139;-;GO;Centro-Oeste;VianÃ³polis;CorumbaÃ­ba;Estadual;PÃºblica;205;Mais de 100 km atÃ© 250 km;Regular
-321;GO-213;BR-490;GO;Centro-Oeste;Morrinhos;Ipameri;Estadual;PÃºblica;117;Mais de 100 km atÃ© 250 km;Regular
-320;BR-259;BR-381;MG;Sudeste;Governador Valadares;AimorÃ©s;Federal;PÃºblica;166;Mais de 100 km atÃ© 250 km;Regular
-319;CE-085;-;CE;Nordeste;Itapipoca;SÃ£o GonÃ§alo do Amarante;Estadual;PÃºblica;91;AtÃ© 100 km;Regular
-318;SP-055;BR-101;SP;Sudeste;Ubatuba;Miracatu;Estadual;PÃºblica;295;Mais de 250 km atÃ© 500 km;Regular
-317;MS-395;-;MS;Centro-Oeste;BrasilÃ¢ndia;Bataguassu;Estadual;PÃºblica;68;AtÃ© 100 km;Regular
-316;BR-030;BR-122, BR-342;BA;Nordeste;TanhaÃ§u;Carinhanha;Federal;PÃºblica;305;Mais de 250 km atÃ© 500 km;Regular
-315;TO-373;-;TO;Norte;Peixe;AraguaÃ§u;Estadual;PÃºblica;192;Mais de 100 km atÃ© 250 km;Regular
-314;BR-354;BR-352, BR-365, BR-369;MG;Sudeste;Patos de Minas;PerdÃµes;Federal;PÃºblica;351;Mais de 250 km atÃ© 500 km;Regular
-313;BR-494;BR-265, BR-383;MG;Sudeste;Nova Serrana;SÃ£o JoÃ£o del Rei;Federal;PÃºblica;203;Mais de 100 km atÃ© 250 km;Regular
-312;BR-265;BR-146, BR-369, BR-383, BR-494;MG;Sudeste;SÃ£o SebastiÃ£o do ParaÃ­so;Barbacena;Federal;PÃºblica;392;Mais de 250 km atÃ© 500 km;Regular
-311;BA-160;BR-330;BA;Nordeste;Xique-Xique;Xique-Xique;Estadual;Concessionada;86;AtÃ© 100 km;Regular
-310;BR-267;BR-116, BR-354, BR-383;MG;Sudeste;Leopoldina;Caxambu;Federal;PÃºblica;303;Mais de 250 km atÃ© 500 km;Regular
-309;BR-364;BR-174, BR-425, BR-429, BR-435;RO;Norte;Porto Velho;Vilhena;Federal;PÃºblica;1111;Mais de 500 km;Regular
-308;BA-144;BR-122;BA;Nordeste;Jacobina;Morro do ChapÃ©u;Estadual;PÃºblica;76;AtÃ© 100 km;Regular
-307;BR-158;BR-287, BR-290, BR-293, BR-377, BR-386, BR-392;RS;Sul;IraÃ­;Sant'ana do Livramento;Federal;PÃºblica;568;Mais de 500 km;Regular
-306;PR-158;BR-158;PR;Sul;Laranjeiras do Sul;Chopinzinho;Estadual;PÃºblica;78;AtÃ© 100 km;Regular
-305;BR-158;BR-282, BR-283;SC;Sul;Maravilha;Palmitos;Federal;PÃºblica;51;AtÃ© 100 km;Regular
-304;BR-070;BR-158;GO;Centro-Oeste;ItapirapuÃ£;AragarÃ§as;Federal;PÃºblica;185;Mais de 100 km atÃ© 250 km;Regular
-303;BR-404;BR-343, BR-407;PI;Nordeste;Piripiri;Pedro II;Federal;PÃºblica;80;AtÃ© 100 km;Regular
-302;BR-010;BR-242;TO;Norte;SilvanÃ³polis;ParanÃ£;Federal;PÃºblica;218;Mais de 100 km atÃ© 250 km;Regular
-301;GO-217;-;GO;Centro-Oeste;Piracanjuba;Piracanjuba;Estadual;PÃºblica;54;AtÃ© 100 km;Regular
-300;BR-282;BR-158, BR-163, BR-283, BR-470, BR-475, BR-480;SC;Sul;ParaÃ­so;FlorianÃ³polis;Federal;PÃºblica;673;Mais de 500 km;Regular
-299;BR-230;BR-153, BR-163;PA;Norte;Itaituba;Palestina do ParÃ¡;Federal;PÃºblica;804;Mais de 500 km;Regular
-298;BR-429;BR-364;RO;Norte;Ji-ParanÃ¡;Costa Marques;Federal;PÃºblica;379;Mais de 250 km atÃ© 500 km;Regular
-297;MT-242;BR-242;MT;Centro-Oeste;Ipiranga do Norte;Sorriso;Estadual;Concessionada;139;Mais de 100 km atÃ© 250 km;Regular
-296;BR-367;-;MG;Sudeste;Berilo;Turmalina;Federal;PÃºblica;99;AtÃ© 100 km;Regular
-295;RS-122;-;RS;Sul;IpÃª;Caxias do Sul;Estadual;Concessionada;50;AtÃ© 100 km;Regular
-294;RJ-116;BR-492;RJ;Sudeste;Macuco;ItaboraÃ­;Estadual;Concessionada;139;Mais de 100 km atÃ© 250 km;Regular
-293;BR-316;BR-135, BR-222, BR-226;MA;Nordeste;Boa Vista do Gurupi;Timon;Federal;PÃºblica;631;Mais de 500 km;Regular
-292;TO-050;-;TO;Norte;Natividade;Arraias;Estadual;PÃºblica;171;Mais de 100 km atÃ© 250 km;Regular
-291;BR-405;-;PB;Nordeste;UiraÃºna;MarizÃ³polis;Federal;PÃºblica;53;AtÃ© 100 km;Regular
-290;SP-312;-;SP;Sudeste;Itu;Barueri;Estadual;PÃºblica;65;AtÃ© 100 km;Regular
-289;BR-482;BR-484;ES;Sudeste;Dores do Rio Preto;Cachoeiro de Itapemirim;Federal;PÃºblica;106;Mais de 100 km atÃ© 250 km;Regular
-288;BR-146;BR-265, BR-267, BR-459, BR-491;MG;Sudeste;Passos;Jacutinga;Federal;PÃºblica;201;Mais de 100 km atÃ© 250 km;Regular
-287;BR-423;BR-232;PE;Nordeste;Caruaru;ItaÃ­ba;Federal;PÃºblica;199;Mais de 100 km atÃ© 250 km;Regular
-286;BR-356;-;MG;Sudeste;ErvÃ¡lia;PatrocÃ­nio do MuriaÃ©;Federal;PÃºblica;75;AtÃ© 100 km;Regular
-285;BR-349;BR-020, BR-135, BR-430;BA;Nordeste;Bom Jesus da Lapa;Jaborandi;Federal;PÃºblica;352;Mais de 250 km atÃ© 500 km;Regular
-284;BA-460;-;BA;Nordeste;Barreiras;LuÃ­s Eduardo MagalhÃ£es;Estadual;PÃºblica;55;AtÃ© 100 km;Regular
-283;SP-125;BR-383;SP;Sudeste;TaubatÃ©;Ubatuba;Estadual;PÃºblica;94;AtÃ© 100 km;Regular
-282;BR-452;BR-462;MG;Sudeste;Nova Ponte;AraxÃ¡;Federal;PÃºblica;102;Mais de 100 km atÃ© 250 km;Regular
-281;PR-466;BR-466;PR;Sul;Jandaia do Sul;Guarapuava;Estadual;PÃºblica;220;Mais de 100 km atÃ© 250 km;Regular
-280;BR-407;BR-343, BR-404;PI;Nordeste;Piripiri;Pedro II;Federal;PÃºblica;55;AtÃ© 100 km;Regular
-279;BR-364;BR-060, BR-158;GO;Centro-Oeste;Santa Rita do Araguaia;JataÃ­;Federal;PÃºblica;194;Mais de 100 km atÃ© 250 km;Regular
-278;BR-104;-;PE;Nordeste;Taquaritinga do Norte;QuipapÃ¡;Federal;PÃºblica;154;Mais de 100 km atÃ© 250 km;Regular
-277;BR-163;BR-280, BR-373, BR-467;PR;Sul;GuaÃ­ra;BarracÃ£o;Federal;PÃºblica;342;Mais de 250 km atÃ© 500 km;Regular
-276;BR-330;-;BA;Nordeste;JequiÃ©;Ubaitaba;Federal;PÃºblica;103;Mais de 100 km atÃ© 250 km;Regular
-275;BR-405;-;RN;Nordeste;MossorÃ³;LuÃ­s Gomes;Federal;PÃºblica;196;Mais de 100 km atÃ© 250 km;Regular
-274;BR-226;BR-010, BR-135, BR-230, BR-316;MA;Nordeste;Timon;Estreito;Federal;PÃºblica;540;Mais de 500 km;Regular
-273;PR-272;BR-272;PR;Sul;MauÃ¡ da Serra;Cruzmaltina;Estadual;PÃºblica;55;AtÃ© 100 km;Regular
-272;RS-135;-;RS;Sul;Erechim;Passo Fundo;Estadual;Concessionada;77;AtÃ© 100 km;Regular
-271;GO-164;-;GO;Centro-Oeste;SÃ£o Miguel do Araguaia;SÃ£o LuÃ­s de Montes Belos;Estadual;PÃºblica;461;Mais de 250 km atÃ© 500 km;Regular
-270;GO-237;-;GO;Centro-Oeste;NiquelÃ¢ndia;UruaÃ§u;Estadual;PÃºblica;86;AtÃ© 100 km;Regular
-269;BR-427;BR-110, BR-226;RN;Nordeste;Currais Novos;Serra Negra do Norte;Federal;PÃºblica;167;Mais de 100 km atÃ© 250 km;Regular
-268;BR-376;-;MS;Centro-Oeste;Dourados;Nova Andradina;Federal;PÃºblica;177;Mais de 100 km atÃ© 250 km;Regular
-267;BR-135;BR-222, BR-226, BR-230, BR-316;MA;Nordeste;SÃ£o LuÃ­s;SÃ£o JoÃ£o dos Patos;Federal;PÃºblica;601;Mais de 500 km;Regular
-266;BR-285;BR-116, BR-153, BR-287, BR-377, BR-470;RS;Sul;SÃ£o Borja;SÃ£o JosÃ© dos Ausentes;Federal;PÃºblica;667;Mais de 500 km;Regular
-265;BR-060;-;MS;Centro-Oeste;ChapadÃ£o do Sul;Bandeirantes;Federal;PÃºblica;242;Mais de 100 km atÃ© 250 km;Regular
-264;BR-020;-;PI;Nordeste;Pio IX;VÃ¡rzea Branca;Federal;PÃºblica;438;Mais de 250 km atÃ© 500 km;Regular
-263;BR-386;BR-158, BR-377;RS;Sul;IraÃ­;Carazinho;Federal;PÃºblica;180;Mais de 100 km atÃ© 250 km;Regular
-262;BR-163;BR-230;PA;Norte;SantarÃ©m;Novo Progresso;Federal;PÃºblica;971;Mais de 500 km;Regular
-261;BR-459;BR-146, BR-267, BR-383;MG;Sudeste;PoÃ§os de Caldas;Delfim Moreira;Federal;PÃºblica;216;Mais de 100 km atÃ© 250 km;Regular
-260;BR-226;BR-104, BR-110, BR-304, BR-427;RN;Nordeste;Natal;Pau dos Ferros;Federal;PÃºblica;384;Mais de 250 km atÃ© 500 km;Regular
-259;RS-453;BR-453;RS;Sul;Garibaldi;VenÃ¢ncio Aires;Estadual;Concessionada;88;AtÃ© 100 km;Regular
-258;BR-226;BR-316, BR-343;PI;Nordeste;Coivaras;Teresina;Federal;PÃºblica;74;AtÃ© 100 km;Regular
-257;MG-496;BR-496;MG;Sudeste;Pirapora;Corinto;Estadual;PÃºblica;136;Mais de 100 km atÃ© 250 km;Regular
-256;MT-140;-;MT;Centro-Oeste;Sorriso;Santa Rita do Trivelato;Estadual;Concessionada;75;AtÃ© 100 km;Regular
-255;MT-320;-;MT;Centro-Oeste;Carlinda;Nova Santa Helena;Estadual;Concessionada;153;Mais de 100 km atÃ© 250 km;Regular
-254;BR-153;-;PR;Sul;Jacarezinho;Santo AntÃ´nio da Platina;Federal;Concessionada;51;AtÃ© 100 km;Regular
-253;PR-495;-;PR;Sul;Marechal CÃ¢ndido Rondon;Medianeira;Estadual;PÃºblica;79;AtÃ© 100 km;Regular
-252;BR-287;BR-158, BR-285, BR-392;RS;Sul;SÃ£o Borja;Santa Maria;Federal;PÃºblica;293;Mais de 250 km atÃ© 500 km;Regular
-251;MT-130;-;MT;Centro-Oeste;Primavera do Leste;RondonÃ³polis;Estadual;Concessionada;111;Mais de 100 km atÃ© 250 km;Regular
-250;BR-356;BR-484;RJ;Sudeste;Itaperuna;SÃ£o JoÃ£o da Barra;Federal;PÃºblica;177;Mais de 100 km atÃ© 250 km;Regular
-249;TO-222;-;TO;Norte;AraguaÃ­na;FiladÃ©lfia;Estadual;PÃºblica;111;Mais de 100 km atÃ© 250 km;Regular
-248;BR-324;BR-135, BR-343;PI;Nordeste;BertolÃ­nia;Eliseu Martins;Federal;PÃºblica;92;AtÃ© 100 km;Regular
-247;RS-480;BR-480;RS;Sul;Nonoai;BarÃ£o de Cotegipe;Estadual;PÃºblica;61;AtÃ© 100 km;Regular
-246;BA-001;BR-242, BR-420;BA;Nordeste;Itaparica;NazarÃ©;Estadual;PÃºblica;60;AtÃ© 100 km;Regular
-245;BR-174;BR-070, BR-364;MT;Centro-Oeste;Comodoro;CÃ¡ceres;Federal;PÃºblica;615;Mais de 500 km;Regular
-244;BA-263;-;BA;Nordeste;Floresta Azul;VitÃ³ria da Conquista;Estadual;PÃºblica;190;Mais de 100 km atÃ© 250 km;Regular
-243;BR-468;BR-472;RS;Sul;Tiradentes do Sul;Palmeira das MissÃµes;Federal;PÃºblica;142;Mais de 100 km atÃ© 250 km;Regular
-242;BR-381;BR-259, BR-262;MG;Sudeste;Governador Valadares;Contagem;Federal;PÃºblica;359;Mais de 250 km atÃ© 500 km;Regular
-241;MS-306;BR-359;MS;Centro-Oeste;Costa Rica;CassilÃ¢ndia;Estadual;Concessionada;218;Mais de 100 km atÃ© 250 km;Regular
-240;MG-451;BR-451;MG;Sudeste;BocaiÃºva;Senador Modestino GonÃ§alves;Estadual;PÃºblica;99;AtÃ© 100 km;Regular
-239;RS-287;BR-287;RS;Sul;Santa Maria;ParaÃ­so do Sul;Estadual;PÃºblica;56;AtÃ© 100 km;Regular
-238;RS-239;-;RS;Sul;Riozinho;Novo Hamburgo;Estadual;Concessionada;74;AtÃ© 100 km;Regular
-237;BR-116;BR-285, BR-290, BR-386;RS;Sul;Vacaria;CamaquÃ£;Federal;PÃºblica;393;Mais de 250 km atÃ© 500 km;Regular
-236;BR-259;-;ES;Sudeste;Baixo Guandu;JoÃ£o Neiva;Federal;PÃºblica;106;Mais de 100 km atÃ© 250 km;Regular
-235;BR-316;BR-428;PE;Nordeste;CabrobÃ³;InajÃ¡;Federal;PÃºblica;166;Mais de 100 km atÃ© 250 km;Regular
-234;GO-530;BR-251;GO;Centro-Oeste;AruanÃ£;Araguapaz;Estadual;PÃºblica;55;AtÃ© 100 km;Regular
-233;BR-070;BR-163, BR-364;MT;Centro-Oeste;VÃ¡rzea Grande;Campo Verde;Federal;Concessionada;119;Mais de 100 km atÃ© 250 km;Regular
-232;CE-178;BR-403;CE;Nordeste;Morrinhos;Sobral;Estadual;PÃºblica;68;AtÃ© 100 km;Regular
-231;BA-160;-;BA;Nordeste;Ibotirama;Bom Jesus da Lapa;Estadual;PÃºblica;139;Mais de 100 km atÃ© 250 km;Regular
-230;BR-242;BR-020, BR-122, BR-135, BR-330, BR-349, BR-407, BR-430;BA;Nordeste;LuÃ­s Eduardo MagalhÃ£es;Rafael Jambeiro;Federal;PÃºblica;844;Mais de 500 km;Regular
-229;BR-367;BR-101;BA;Nordeste;Itagimirim;Santa Cruz CabrÃ¡lia;Federal;PÃºblica;163;Mais de 100 km atÃ© 250 km;Regular
-228;BR-135;BR-020, BR-242, BR-349;BA;Nordeste;Formosa do Rio Preto;Cocos;Federal;PÃºblica;412;Mais de 250 km atÃ© 500 km;Regular
-227;RS-223;-;RS;Sul;Tio Hugo;IbirubÃ¡;Estadual;PÃºblica;77;AtÃ© 100 km;Regular
-226;BR-101;-;SP;Sudeste;Ubatuba;Ubatuba;Federal;PÃºblica;52;AtÃ© 100 km;Regular
-225;BR-414;BR-070, BR-251;GO;Centro-Oeste;NiquelÃ¢ndia;AnÃ¡polis;Federal;PÃºblica;237;Mais de 100 km atÃ© 250 km;Regular
-224;BR-158;BR-262;MS;Centro-Oeste;CassilÃ¢ndia;BrasilÃ¢ndia;Federal;PÃºblica;358;Mais de 250 km atÃ© 500 km;Regular
-223;BR-174;BR-210;RR;Norte;Pacaraima;RorainÃ³polis;Federal;PÃºblica;746;Mais de 500 km;Regular
-222;MG-050;-;MG;Sudeste;Juatuba;SÃ£o SebastiÃ£o do ParaÃ­so;Estadual;Concessionada;337;Mais de 250 km atÃ© 500 km;Regular
-221;BR-153;-;RS;Sul;Marcelino Ramos;Erechim;Federal;PÃºblica;54;AtÃ© 100 km;Regular
-220;BR-010;BR-222, BR-308, BR-316;PA;Norte;BelÃ©m;Dom Eliseu;Federal;PÃºblica;461;Mais de 250 km atÃ© 500 km;Regular
-219;BR-060;BR-262, BR-267, BR-419;MS;Centro-Oeste;Campo Grande;Bela Vista;Federal;PÃºblica;359;Mais de 250 km atÃ© 500 km;Regular
-218;RS-129;-;RS;Sul;GuaporÃ©;Encantado;Estadual;Concessionada;59;AtÃ© 100 km;Regular
-217;RS-453;BR-453;RS;Sul;SÃ£o Francisco de Paula;SÃ£o Francisco de Paula;Estadual;PÃºblica;55;AtÃ© 100 km;Regular
-216;DF-001;BR-251;DF;Centro-Oeste;BrasÃ­lia;BrasÃ­lia;Estadual;PÃºblica;51;AtÃ© 100 km;Regular
-215;BR-408;-;PE;Nordeste;TimbaÃºba;JaboatÃ£o dos Guararapes;Federal;PÃºblica;87;AtÃ© 100 km;Regular
-214;BR-210;BR-156;AP;Norte;Ferreira Gomes;MacapÃ¡;Federal;PÃºblica;101;Mais de 100 km atÃ© 250 km;Regular
-213;GO-070;BR-070;GO;Centro-Oeste;ItapirapuÃ£;GoiÃ¢nia;Estadual;PÃºblica;187;Mais de 100 km atÃ© 250 km;Regular
-212;BR-210;BR-174;RR;Norte;CaracaraÃ­;Caroebe;Federal;PÃºblica;222;Mais de 100 km atÃ© 250 km;Regular
-211;BR-471;-;RS;Sul;Santa Cruz do Sul;Pantano Grande;Federal;PÃºblica;59;AtÃ© 100 km;Regular
-210;MT-235;-;MT;Centro-Oeste;Nova Mutum;Santa Rita do Trivelato;Estadual;Concessionada;96;AtÃ© 100 km;Regular
-209;BR-116;BR-251, BR-267, BR-342, BR-393, BR-451, BR-458;MG;Sudeste;Divisa Alegre;AlÃ©m ParaÃ­ba;Federal;PÃºblica;829;Mais de 500 km;Regular
-208;MT-100;-;MT;Centro-Oeste;Alto Araguaia;Alto Taquari;Estadual;Concessionada;91;AtÃ© 100 km;Regular
-207;ES-060;-;ES;Sudeste;Guarapari;MarataÃ­zes;Estadual;PÃºblica;61;AtÃ© 100 km;Regular
-206;BR-402;BR-343;PI;Nordeste;LuÃ­s Correia;Buriti dos Lopes;Federal;PÃºblica;99;AtÃ© 100 km;Regular
-205;PR-323;-;PR;Sul;MaringÃ¡;IporÃ£;Estadual;PÃºblica;207;Mais de 100 km atÃ© 250 km;Regular
-204;BR-425;BR-364, BR-421;RO;Norte;Porto Velho;GuajarÃ¡-Mirim;Federal;PÃºblica;149;Mais de 100 km atÃ© 250 km;Regular
-203;BR-267;BR-060, BR-419;MS;Centro-Oeste;Porto Murtinho;Bataguassu;Federal;PÃºblica;642;Mais de 500 km;Regular
-202;BR-110;BR-101, BR-420, BR-423;BA;Nordeste;Paulo Afonso;SÃ£o SebastiÃ£o do PassÃ©;Federal;PÃºblica;415;Mais de 250 km atÃ© 500 km;Regular
-201;BR-101;BR-235, BR-349;SE;Nordeste;PropriÃ¡;CristinÃ¡polis;Federal;PÃºblica;210;Mais de 100 km atÃ© 250 km;Regular
-200;BR-471;-;RS;Sul;Rio Grande;ChuÃ­;Federal;PÃºblica;221;Mais de 100 km atÃ© 250 km;Regular
-199;BR-222;BR-343;PI;Nordeste;SÃ£o JoÃ£o do Arraial;SÃ£o JoÃ£o da Fronteira;Federal;PÃºblica;178;Mais de 100 km atÃ© 250 km;Regular
-198;SP-425;BR-265, BR-267;SP;Sudeste;Barretos;ParapuÃ£;Estadual;PÃºblica;237;Mais de 100 km atÃ© 250 km;Regular
-197;BR-290;BR-116, BR-153, BR-158, BR-293, BR-377, BR-472, BR-473;RS;Sul;Uruguaiana;Porto Alegre;Federal;PÃºblica;627;Mais de 500 km;Regular
-196;BR-406;BR-101, BR-104;RN;Nordeste;Macau;Natal;Federal;PÃºblica;179;Mais de 100 km atÃ© 250 km;Regular
-195;BR-262;BR-381;MG;Sudeste;JoÃ£o Monlevade;Martins Soares;Federal;PÃºblica;198;Mais de 100 km atÃ© 250 km;Regular
-194;BR-364;BR-154, BR-461, BR-497;MG;Sudeste;Santa VitÃ³ria;Planura;Federal;PÃºblica;241;Mais de 100 km atÃ© 250 km;Regular
-193;BR-392;BR-158, BR-287;RS;Sul;JÃºlio de Castilhos;Santana da Boa Vista;Federal;PÃºblica;238;Mais de 100 km atÃ© 250 km;Regular
-192;BR-153;BR-060, BR-452;GO;Centro-Oeste;AnÃ¡polis;Itumbiara;Federal;Concessionada;258;Mais de 250 km atÃ© 500 km;Regular
-191;BR-392;-;RS;Sul;Porto Xavier;Santo Ã‚ngelo;Federal;PÃºblica;102;Mais de 100 km atÃ© 250 km;Regular
-190;BR-101;BR-030, BR-110, BR-251, BR-367, BR-415, BR-420;BA;Nordeste;Rio Real;Mucuri;Federal;PÃºblica;954;Mais de 500 km;Regular
-189;GO-118;BR-010;GO;Centro-Oeste;Campos Belos;Planaltina;Estadual;PÃºblica;352;Mais de 250 km atÃ© 500 km;Regular
-188;SP-563;BR-158, BR-262;SP;Sudeste;Pereira Barreto;Presidente Venceslau;Estadual;PÃºblica;171;Mais de 100 km atÃ© 250 km;Regular
-187;BR-153;BR-262, BR-364, BR-452, BR-464;MG;Sudeste;AraporÃ£;Fronteira;Federal;Concessionada;248;Mais de 100 km atÃ© 250 km;Regular
-186;BR-235;BR-135, BR-330;PI;Nordeste;Bom Jesus;Santa Filomena;Federal;PÃºblica;287;Mais de 250 km atÃ© 500 km;Regular
-185;BR-232;BR-423;PE;Nordeste;Recife;Parnamirim;Federal;PÃºblica;570;Mais de 500 km;Regular
-184;BR-070;BR-174;MT;Centro-Oeste;VÃ¡rzea Grande;CÃ¡ceres;Federal;PÃºblica;294;Mais de 250 km atÃ© 500 km;Regular
-183;BR-430;BR-242;BA;Nordeste;Barreiras;CristÃ³polis;Federal;PÃºblica;69;AtÃ© 100 km;Regular
-182;BR-416;BR-101, BR-104;AL;Nordeste;Novo Lino;SÃ£o JosÃ© da Laje;Federal;PÃºblica;63;AtÃ© 100 km;Regular
-181;BR-070;BR-158, BR-414;GO;Centro-Oeste;Ãguas Lindas de GoiÃ¡s;Cocalzinho de GoiÃ¡s;Federal;PÃºblica;70;AtÃ© 100 km;Regular
-180;GO-244;-;GO;Centro-Oeste;SÃ£o Miguel do Araguaia;Porangatu;Estadual;PÃºblica;124;Mais de 100 km atÃ© 250 km;Regular
-179;BR-104;BR-230;PB;Nordeste;Nova Floresta;Alcantil;Federal;PÃºblica;204;Mais de 100 km atÃ© 250 km;Regular
-178;MG-267;BR-267;MG;Sudeste;Machado;PoÃ§os de Caldas;Estadual;PÃºblica;74;AtÃ© 100 km;Regular
-177;BR-101;BR-304, BR-406;RN;Nordeste;Touros;BaÃ­a Formosa;Federal;PÃºblica;185;Mais de 100 km atÃ© 250 km;Regular
-176;BR-163;-;MT;Centro-Oeste;GuarantÃ£ do Norte;Sinop;Federal;PÃºblica;267;Mais de 250 km atÃ© 500 km;Regular
-175;BR-116;BR-122, BR-226, BR-230;CE;Nordeste;Fortaleza;Penaforte;Federal;PÃºblica;560;Mais de 500 km;Regular
-174;BR-352;BR-354, BR-365;MG;Sudeste;Patos de Minas;ArapuÃ¡;Federal;PÃºblica;79;AtÃ© 100 km;Regular
-173;MG-677;-;MG;Sudeste;Virgem da Lapa;Turmalina;Estadual;PÃºblica;95;AtÃ© 100 km;Regular
-172;SP-250;BR-373, BR-476;SP;Sudeste;CapÃ£o Bonito;Ribeira;Estadual;PÃºblica;128;Mais de 100 km atÃ© 250 km;Regular
-171;GO-080;-;GO;Centro-Oeste;Barro Alto;GoiÃ¢nia;Estadual;PÃºblica;187;Mais de 100 km atÃ© 250 km;Regular
-170;BR-070;BR-158;MT;Centro-Oeste;Campo Verde;Pontal do Araguaia;Federal;PÃºblica;424;Mais de 250 km atÃ© 500 km;Regular
-169;BR-402;-;MA;Nordeste;Humberto de Campos;Barreirinhas;Federal;PÃºblica;77;AtÃ© 100 km;Regular
-168;BR-153;BR-080, BR-414;GO;Centro-Oeste;Porangatu;AnÃ¡polis;Federal;PÃºblica;447;Mais de 250 km atÃ© 500 km;Regular
-167;BR-230;BR-116;CE;Nordeste;Ipaumirim;Farias Brito;Federal;PÃºblica;116;Mais de 100 km atÃ© 250 km;Regular
-166;BR-135;BR-235, BR-324, BR-330, BR-343;PI;Nordeste;Jerumenha;CristalÃ¢ndia do PiauÃ­;Federal;PÃºblica;608;Mais de 500 km;Regular
-165;SP-595;-;SP;Sudeste;TrÃªs Fronteiras;Ilha Solteira;Estadual;PÃºblica;57;AtÃ© 100 km;Regular
-164;BR-230;BR-010, BR-135, BR-226;MA;Nordeste;Estreito;BarÃ£o de GrajaÃº;Federal;PÃºblica;671;Mais de 500 km;Regular
-163;BR-428;BR-122, BR-235, BR-316, BR-407;PE;Nordeste;BelÃ©m do SÃ£o Francisco;Petrolina;Federal;PÃºblica;197;Mais de 100 km atÃ© 250 km;Regular
-162;BR-452;BR-154, BR-483;GO;Centro-Oeste;Rio Verde;Itumbiara;Federal;PÃºblica;197;Mais de 100 km atÃ© 250 km;Regular
-161;BR-308;BR-010, BR-316;PA;Norte;Augusto CorrÃªa;BelÃ©m;Federal;PÃºblica;227;Mais de 100 km atÃ© 250 km;Regular
-160;BR-235;BR-101, BR-349;SE;Nordeste;Carira;Aracaju;Federal;PÃºblica;116;Mais de 100 km atÃ© 250 km;Regular
-159;GO-060;-;GO;Centro-Oeste;Piranhas;GoiÃ¢nia;Estadual;PÃºblica;307;Mais de 250 km atÃ© 500 km;Regular
-158;BR-324;BR-116, BR-122, BR-407;BA;Nordeste;Umburanas;Feira de Santana;Federal;PÃºblica;328;Mais de 250 km atÃ© 500 km;Regular
-157;BR-365;BR-050, BR-251, BR-352, BR-354, BR-452, BR-497;MG;Sudeste;Montes Claros;UberlÃ¢ndia;Federal;PÃºblica;627;Mais de 500 km;Regular
-156;BR-423;BR-110;AL;Nordeste;Ouro Branco;Delmiro Gouveia;Federal;PÃºblica;107;Mais de 100 km atÃ© 250 km;Regular
-155;BR-472;BR-468;RS;Sul;TrÃªs Passos;Santo Cristo;Federal;PÃºblica;81;AtÃ© 100 km;Regular
-154;BR-060;BR-158, BR-364;GO;Centro-Oeste;GoiÃ¢nia;JataÃ­;Federal;PÃºblica;411;Mais de 250 km atÃ© 500 km;Regular
-153;SP-150;BR-050;SP;Sudeste;SÃ£o Paulo;Santos;Estadual;Concessionada;57;AtÃ© 100 km;Regular
-152;BR-226;BR-230;TO;Norte;AguiarnÃ³polis;WanderlÃ¢ndia;Federal;PÃºblica;71;AtÃ© 100 km;Regular
-151;BR-153;BR-272;PR;Sul;Santo AntÃ´nio da Platina;Ipiranga;Federal;PÃºblica;193;Mais de 100 km atÃ© 250 km;Regular
-150;BR-467;BR-163;PR;Sul;Marechal CÃ¢ndido Rondon;Cascavel;Federal;PÃºblica;78;AtÃ© 100 km;Regular
-149;BR-412;BR-110;PB;Nordeste;Boa Vista;Monteiro;Federal;PÃºblica;147;Mais de 100 km atÃ© 250 km;Regular
-148;PR-487;BR-487;PR;Sul;Campo MourÃ£o;Nova Tebas;Estadual;PÃºblica;84;AtÃ© 100 km;Bom
-147;BR-110;BR-226, BR-427;RN;Nordeste;Areia Branca;JanduÃ­s;Federal;PÃºblica;152;Mais de 100 km atÃ© 250 km;Bom
-146;BR-262;BR-060, BR-158, BR-359;MS;Centro-Oeste;CorumbÃ¡;TrÃªs Lagoas;Federal;PÃºblica;764;Mais de 500 km;Bom
-145;BR-235;BR-122, BR-324, BR-407;BA;Nordeste;Remanso;Pedro Alexandre;Federal;PÃºblica;600;Mais de 500 km;Bom
-144;ES-080;BR-381;ES;Sudeste;SÃ£o Domingos do Norte;Colatina;Estadual;PÃºblica;55;AtÃ© 100 km;Bom
-143;BR-364;-;MT;Centro-Oeste;RondonÃ³polis;Alto Araguaia;Federal;PÃºblica;202;Mais de 100 km atÃ© 250 km;Bom
-142;BR-010;BR-222, BR-226, BR-230;MA;Nordeste;Itinga do MaranhÃ£o;Carolina;Federal;PÃºblica;347;Mais de 250 km atÃ© 500 km;Bom
-141;BR-146;-;MG;Sudeste;Patos de Minas;AraxÃ¡;Federal;PÃºblica;121;Mais de 100 km atÃ© 250 km;Bom
-140;BR-386;BR-153;RS;Sul;Carazinho;Canoas;Federal;Concessionada;255;Mais de 250 km atÃ© 500 km;Bom
-139;BR-122;BR-242, BR-330, BR-349;BA;Nordeste;Ibitiara;Seabra;Federal;PÃºblica;73;AtÃ© 100 km;Bom
-138;BR-020;-;CE;Nordeste;EusÃ©bio;Parambu;Federal;PÃºblica;440;Mais de 250 km atÃ© 500 km;Bom
-137;BR-293;BR-158;RS;Sul;QuaraÃ­;Pelotas;Federal;PÃºblica;436;Mais de 250 km atÃ© 500 km;Bom
-136;BR-070;-;GO;Centro-Oeste;JaraguÃ¡;ItaberaÃ­;Federal;PÃºblica;62;AtÃ© 100 km;Bom
-135;RS-040;-;RS;Sul;ViamÃ£o;BalneÃ¡rio Pinhal;Estadual;Concessionada;83;AtÃ© 100 km;Bom
-134;BR-432;-;RR;Norte;CantÃ¡;CaracaraÃ­;Federal;PÃºblica;184;Mais de 100 km atÃ© 250 km;Bom
-133;BR-101;-;PE;Nordeste;Goiana;XexÃ©u;Federal;PÃºblica;240;Mais de 100 km atÃ© 250 km;Bom
-132;BR-101;BR-104, BR-416;AL;Nordeste;Novo Lino;Porto Real do ColÃ©gio;Federal;PÃºblica;262;Mais de 250 km atÃ© 500 km;Bom
-131;BR-163;BR-070, BR-364;MT;Centro-Oeste;Sinop;Itiquira;Federal;Concessionada;843;Mais de 500 km;Bom
-130;BR-153;BR-290, BR-473;RS;Sul;Novo Cabrais;AceguÃ¡;Federal;PÃºblica;325;Mais de 250 km atÃ© 500 km;Bom
-129;BR-262;BR-040, BR-050, BR-153, BR-354, BR-364, BR-381, BR-464;MG;Sudeste;Belo Horizonte;Fronteira;Federal;Concessionada;670;Mais de 500 km;Bom
-128;BR-418;-;BA;Nordeste;Caravelas;Mucuri;Federal;PÃºblica;125;Mais de 100 km atÃ© 250 km;Bom
-127;BR-158;BR-070, BR-242, BR-251;MT;Centro-Oeste;Vila Rica;Pontal do Araguaia;Federal;PÃºblica;661;Mais de 500 km;Bom
-126;BR-393;BR-040, BR-116;RJ;Sudeste;Carmo;Volta Redonda;Federal;Concessionada;198;Mais de 100 km atÃ© 250 km;Bom
-125;PR-323;-;PR;Sul;Sertaneja;Londrina;Estadual;Concessionada;61;AtÃ© 100 km;Bom
-124;BR-251;BR-116, BR-122, BR-365;MG;Sudeste;Pedra Azul;Montes Claros;Federal;PÃºblica;368;Mais de 250 km atÃ© 500 km;Bom
-123;SP-322;BR-265;SP;Sudeste;IcÃ©m;Bebedouro;Estadual;PÃºblica;105;Mais de 100 km atÃ© 250 km;Bom
-122;BR-222;BR-403;CE;Nordeste;Fortaleza;Ubajara;Federal;PÃºblica;360;Mais de 250 km atÃ© 500 km;Bom
-121;RS-287;BR-153, BR-287, BR-470, BR-471;RS;Sul;Montenegro;ParaÃ­so do Sul;Estadual;Concessionada;157;Mais de 100 km atÃ© 250 km;Bom
-120;BR-364;BR-174;MT;Centro-Oeste;Comodoro;Diamantino;Federal;PÃºblica;767;Mais de 500 km;Bom
-119;BA-262;BR-407;BA;Nordeste;Brumado;VitÃ³ria da Conquista;Estadual;PÃºblica;126;Mais de 100 km atÃ© 250 km;Bom
-118;BR-493;-;RJ;Sudeste;ItaboraÃ­;ItaguaÃ­;Federal;PÃºblica;102;Mais de 100 km atÃ© 250 km;Bom
-117;BR-020;BR-135, BR-242, BR-349;BA;Nordeste;RiachÃ£o das Neves;Jaborandi;Federal;PÃºblica;408;Mais de 250 km atÃ© 500 km;Bom
-116;BR-304;BR-101, BR-104, BR-226;RN;Nordeste;MossorÃ³;Natal;Federal;PÃºblica;321;Mais de 250 km atÃ© 500 km;Bom
-115;BR-304;-;CE;Nordeste;Beberibe;Aracati;Federal;PÃºblica;103;Mais de 100 km atÃ© 250 km;Bom
-114;BR-230;BR-316, BR-343, BR-407;PI;Nordeste;Floriano;Fronteiras;Federal;PÃºblica;316;Mais de 250 km atÃ© 500 km;Bom
-113;BR-316;BR-226, BR-230, BR-343, BR-407;PI;Nordeste;Teresina;MarcolÃ¢ndia;Federal;PÃºblica;423;Mais de 250 km atÃ© 500 km;Bom
-112;BR-487;-;MS;Centro-Oeste;ItaquiraÃ­;NaviraÃ­;Federal;PÃºblica;52;AtÃ© 100 km;Bom
-111;BR-104;BR-101, BR-416;AL;Nordeste;SÃ£o JosÃ© da Laje;MaceiÃ³;Federal;PÃºblica;111;Mais de 100 km atÃ© 250 km;Bom
-110;BA-099;-;BA;Nordeste;JandaÃ­ra;Lauro de Freitas;Estadual;Concessionada;188;Mais de 100 km atÃ© 250 km;Bom
-109;BR-040;BR-135, BR-262, BR-267, BR-356, BR-381, BR-383;MG;Sudeste;Paracatu;SimÃ£o Pereira;Federal;Concessionada;836;Mais de 500 km;Bom
-108;BR-381;BR-116;SP;Sudeste;Vargem;SÃ£o Paulo;Federal;Concessionada;94;AtÃ© 100 km;Bom
-107;BR-272;BR-487;PR;Sul;Campo MourÃ£o;GoioerÃª;Federal;PÃºblica;78;AtÃ© 100 km;Bom
-106;SP-160;-;SP;Sudeste;SÃ£o Paulo;Praia Grande;Estadual;Concessionada;73;AtÃ© 100 km;Bom
-105;BR-392;BR-116, BR-293, BR-471;RS;Sul;Santana da Boa Vista;Rio Grande;Federal;Concessionada;201;Mais de 100 km atÃ© 250 km;Bom
-104;BR-419;BR-060, BR-267;MS;Centro-Oeste;AnastÃ¡cio;Jardim;Federal;PÃºblica;137;Mais de 100 km atÃ© 250 km;Bom
-103;BR-242;BR-010, BR-153;TO;Norte;Formoso do Araguaia;Taguatinga;Federal;PÃºblica;485;Mais de 250 km atÃ© 500 km;Bom
-102;BR-381;BR-040, BR-262, BR-265, BR-494;MG;Sudeste;Belo Horizonte;Extrema;Federal;Concessionada;483;Mais de 250 km atÃ© 500 km;Bom
-101;BR-316;BR-010, BR-308;PA;Norte;BelÃ©m;Cachoeira do PiriÃ¡;Federal;PÃºblica;276;Mais de 250 km atÃ© 500 km;Bom
-100;BR-407;BR-122, BR-235, BR-324;BA;Nordeste;Juazeiro;Capim Grosso;Federal;PÃºblica;238;Mais de 100 km atÃ© 250 km;Bom
-99;SP-304;-;SP;Sudeste;JaÃº;Piracicaba;Estadual;Concessionada;122;Mais de 100 km atÃ© 250 km;Bom
-98;BR-101;BR-356;RJ;Sudeste;Campos dos Goytacazes;Rio de Janeiro;Federal;Concessionada;336;Mais de 250 km atÃ© 500 km;Bom
-97;BR-101;BR-262, BR-342;ES;Sudeste;Pedro CanÃ¡rio;Mimoso do Sul;Federal;Concessionada;472;Mais de 250 km atÃ© 500 km;Bom
-96;BR-463;-;MS;Centro-Oeste;Dourados;Ponta PorÃ£;Federal;PÃºblica;112;Mais de 100 km atÃ© 250 km;Bom
-95;SP-461;BR-154;SP;Sudeste;Votuporanga;Bilac;Estadual;PÃºblica;125;Mais de 100 km atÃ© 250 km;Bom
-94;BR-316;-;PE;Nordeste;Araripina;Parnamirim;Federal;PÃºblica;145;Mais de 100 km atÃ© 250 km;Bom
-93;BR-116;-;PE;Nordeste;Salgueiro;BelÃ©m do SÃ£o Francisco;Federal;PÃºblica;95;AtÃ© 100 km;Bom
-92;BR-116;BR-280, BR-477;SC;Sul;Mafra;CapÃ£o Alto;Federal;Concessionada;311;Mais de 250 km atÃ© 500 km;Bom
-91;BR-458;BR-116;MG;Sudeste;Tarumirim;Ipatinga;Federal;PÃºblica;66;AtÃ© 100 km;Bom
-90;BR-163;BR-060, BR-262, BR-267, BR-419, BR-487;MS;Centro-Oeste;Sonora;Mundo Novo;Federal;Concessionada;848;Mais de 500 km;Bom
-89;BR-262;BR-484;ES;Sudeste;IÃºna;VitÃ³ria;Federal;PÃºblica;188;Mais de 100 km atÃ© 250 km;Bom
-88;MG-135;BR-135;MG;Sudeste;Montes Claros;Curvelo;Estadual;Concessionada;303;Mais de 250 km atÃ© 500 km;Bom
-87;BR-324;BR-420;BA;Nordeste;Feira de Santana;Salvador;Federal;Concessionada;124;Mais de 100 km atÃ© 250 km;Bom
-86;BR-373;BR-277, BR-376, BR-487;PR;Sul;Ponta Grossa;CandÃ³i;Federal;Concessionada;210;Mais de 100 km atÃ© 250 km;Bom
-85;BR-230;BR-101, BR-104, BR-110, BR-408;PB;Nordeste;Cachoeira dos Ãndios;Cabedelo;Federal;PÃºblica;530;Mais de 500 km;Bom
-84;BR-040;BR-050;GO;Centro-Oeste;ValparaÃ­so de GoiÃ¡s;Cristalina;Federal;Concessionada;157;Mais de 100 km atÃ© 250 km;Bom
-83;BR-401;-;RR;Norte;Bonfim;Boa Vista;Federal;PÃºblica;125;Mais de 100 km atÃ© 250 km;Bom
-82;BR-415;BR-101;BA;Nordeste;IlhÃ©us;ItapÃ©;Federal;PÃºblica;54;AtÃ© 100 km;Bom
-81;BR-110;-;PE;Nordeste;SertÃ¢nia;Ibimirim;Federal;PÃºblica;54;AtÃ© 100 km;Bom
-80;SP-342;-;SP;Sudeste;Ãguas da Prata;Mogi GuaÃ§u;Estadual;Concessionada;80;AtÃ© 100 km;Bom
-79;BR-116;BR-040, BR-393, BR-492, BR-493;RJ;Sudeste;Carmo;Resende;Federal;Concessionada;343;Mais de 250 km atÃ© 500 km;Bom
-78;SP-099;-;SP;Sudeste;SÃ£o JosÃ© dos Campos;Caraguatatuba;Estadual;Concessionada;80;AtÃ© 100 km;Bom
-77;BA-052;BR-122;BA;Nordeste;Xique-Xique;Feira de Santana;Estadual;Concessionada;462;Mais de 250 km atÃ© 500 km;Bom
-76;BR-407;BR-230, BR-316;PI;Nordeste;Picos;AcauÃ£;Federal;PÃºblica;201;Mais de 100 km atÃ© 250 km;Bom
-75;MA-402;BR-402;MA;Nordeste;Humberto de Campos;Morros;Estadual;PÃºblica;65;AtÃ© 100 km;Bom
-74;SP-351;BR-265;SP;Sudeste;Batatais;Santo AntÃ´nio da Alegria;Estadual;PÃºblica;53;AtÃ© 100 km;Bom
-73;BR-373;-;PR;Sul;CandÃ³i;Coronel Vivida;Federal;PÃºblica;96;AtÃ© 100 km;Bom
-72;BR-040;BR-116, BR-393, BR-492;RJ;Sudeste;Comendador Levy Gasparian;Rio de Janeiro;Federal;Concessionada;163;Mais de 100 km atÃ© 250 km;Bom
-71;BR-369;BR-376, BR-466;PR;Sul;Jacarezinho;Jandaia do Sul;Federal;Concessionada;188;Mais de 100 km atÃ© 250 km;Bom
-70;BR-116;BR-293, BR-392, BR-471;RS;Sul;CamaquÃ£;JaguarÃ£o;Federal;Concessionada;260;Mais de 250 km atÃ© 500 km;Bom
-69;SP-021;-;SP;Sudeste;SÃ£o Paulo;ArujÃ¡;Estadual;Concessionada;137;Mais de 100 km atÃ© 250 km;Bom
-68;BR-277;BR-116, BR-158, BR-373, BR-376;PR;Sul;Foz do IguaÃ§u;ParanaguÃ¡;Federal;Concessionada;743;Mais de 500 km;Bom
-67;BR-316;BR-424;AL;Nordeste;Mata Grande;MaceiÃ³;Federal;PÃºblica;294;Mais de 250 km atÃ© 500 km;Bom
-66;BR-153;BR-242;TO;Norte;XambioÃ¡;TalismÃ£;Federal;PÃºblica;801;Mais de 500 km;Bom
-65;BR-080;BR-153, BR-251;GO;Centro-Oeste;SÃ£o Miguel do Araguaia;Padre Bernardo;Federal;PÃºblica;352;Mais de 250 km atÃ© 500 km;Bom
-64;BR-343;BR-135, BR-222, BR-226, BR-230, BR-316, BR-324, BR-402, BR-404, BR-407;PI;Nordeste;LuÃ­s Correia;BertolÃ­nia;Federal;PÃºblica;747;Mais de 500 km;Bom
-63;SP-215;BR-267, BR-369;SP;Sudeste;Vargem Grande do Sul;SÃ£o Carlos;Estadual;Concessionada;115;Mais de 100 km atÃ© 250 km;Bom
-62;BR-116;BR-101, BR-381, BR-383, BR-459, BR-478;SP;Sudeste;Queluz;Barra do Turvo;Federal;Concessionada;561;Mais de 500 km;Bom
-61;BR-364;BR-483;GO;Centro-Oeste;JataÃ­;SÃ£o SimÃ£o;Federal;Concessionada;192;Mais de 100 km atÃ© 250 km;Bom
-60;BR-153;BR-369;SP;Sudeste;IcÃ©m;Ourinhos;Federal;Concessionada;322;Mais de 250 km atÃ© 500 km;Bom
-59;BR-376;BR-116, BR-277, BR-369, BR-373, BR-466, BR-487;PR;Sul;Nova Londrina;Guaratuba;Federal;Concessionada;649;Mais de 500 km;Bom
-58;SP-340;-;SP;Sudeste;Mococa;Campinas;Estadual;Concessionada;166;Mais de 100 km atÃ© 250 km;Bom
-57;BR-116;BR-030, BR-242, BR-330;BA;Nordeste;Feira de Santana;Encruzilhada;Federal;Concessionada;553;Mais de 500 km;Bom
-56;SP-351;-;SP;Sudeste;Viradouro;Catanduva;Estadual;Concessionada;85;AtÃ© 100 km;Bom
-55;BR-330;BR-135, BR-235;PI;Nordeste;Bom Jesus;RedenÃ§Ã£o do GurguÃ©ia;Federal;PÃºblica;56;AtÃ© 100 km;Bom
-54;SP-326;BR-364;SP;Sudeste;Barretos;MatÃ£o;Estadual;Concessionada;133;Mais de 100 km atÃ© 250 km;Bom
-53;BR-407;BR-122, BR-235, BR-428;PE;Nordeste;AfrÃ¢nio;Petrolina;Federal;PÃºblica;132;Mais de 100 km atÃ© 250 km;Bom
-52;BR-356;-;MG;Sudeste;Nova Lima;Mariana;Federal;PÃºblica;84;AtÃ© 100 km;Bom
-51;BR-060;BR-153;GO;Centro-Oeste;Santo AntÃ´nio do Descoberto;GoiÃ¢nia;Federal;Concessionada;139;Mais de 100 km atÃ© 250 km;Bom
-50;BR-050;BR-040, BR-352, BR-457;GO;Centro-Oeste;ValparaÃ­so de GoiÃ¡s;Cumari;Federal;Concessionada;317;Mais de 250 km atÃ© 500 km;Bom
-49;BR-424;BR-316;AL;Nordeste;Atalaia;Marechal Deodoro;Federal;PÃºblica;57;AtÃ© 100 km;Bom
-48;BR-101;BR-230;PB;Nordeste;Mataraca;CaaporÃ£;Federal;PÃºblica;134;Mais de 100 km atÃ© 250 km;Bom
-47;BR-369;BR-158;PR;Sul;Campo MourÃ£o;Cascavel;Federal;Concessionada;179;Mais de 100 km atÃ© 250 km;Bom
-46;SP-270;-;SP;Sudeste;Ourinhos;Itapetininga;Estadual;PÃºblica;214;Mais de 100 km atÃ© 250 km;Bom
-45;SP-425;-;SP;Sudeste;Presidente Prudente;Pirapozinho;Estadual;PÃºblica;69;AtÃ© 100 km;Bom
-44;BR-116;BR-277, BR-376;PR;Sul;Campina Grande do Sul;Rio Negro;Federal;Concessionada;243;Mais de 100 km atÃ© 250 km;Bom
-43;SP-463;-;SP;Sudeste;Ouroeste;Clementina;Estadual;PÃºblica;192;Mais de 100 km atÃ© 250 km;Bom
-42;BR-487;BR-272;PR;Sul;Cruzeiro do Oeste;Campo MourÃ£o;Federal;PÃºblica;72;AtÃ© 100 km;Bom
-41;BR-230;BR-226;TO;Norte;Araguatins;AguiarnÃ³polis;Federal;PÃºblica;147;Mais de 100 km atÃ© 250 km;Bom
-40;SP-284;-;SP;Sudeste;MartinÃ³polis;Assis;Estadual;Concessionada;103;Mais de 100 km atÃ© 250 km;Bom
-39;SP-255;BR-272;SP;Sudeste;RibeirÃ£o Preto;Itaporanga;Estadual;Concessionada;348;Mais de 250 km atÃ© 500 km;Bom
-38;SP-258;-;SP;Sudeste;CapÃ£o Bonito;ItararÃ©;Estadual;Concessionada;120;Mais de 100 km atÃ© 250 km;Bom
-37;SP-332;-;SP;Sudeste;Mogi GuaÃ§u;Campinas;Estadual;Concessionada;76;AtÃ© 100 km;Bom
-36;PR-317;-;PR;Sul;MaringÃ¡;Peabiru;Estadual;Concessionada;80;AtÃ© 100 km;Bom
-35;SP-294;BR-153, BR-158;SP;Sudeste;Panorama;Bauru;Estadual;Concessionada;331;Mais de 250 km atÃ© 500 km;Bom
-34;SP-425;-;SP;Sudeste;ParapuÃ£;Presidente Prudente;Estadual;Concessionada;76;AtÃ© 100 km;Bom
-33;BR-359;-;MS;Centro-Oeste;Costa Rica;Coxim;Federal;PÃºblica;206;Mais de 100 km atÃ© 250 km;Bom
-32;BR-290;BR-101, BR-116;RS;Sul;OsÃ³rio;Porto Alegre;Federal;Concessionada;98;AtÃ© 100 km;Bom
-31;BR-365;BR-050, BR-154, BR-364, BR-452;MG;Sudeste;UberlÃ¢ndia;Santa VitÃ³ria;Federal;Concessionada;249;Mais de 100 km atÃ© 250 km;Bom
-30;BR-101;BR-282, BR-376, BR-486;SC;Sul;Garuva;Passo de Torres;Federal;Concessionada;472;Mais de 250 km atÃ© 500 km;Bom
-29;SP-270;BR-272, BR-373;SP;Sudeste;Cotia;Itapetininga;Estadual;Concessionada;135;Mais de 100 km atÃ© 250 km;Bom
-28;SP-191;-;SP;Sudeste;Mogi Mirim;SÃ£o Pedro;Estadual;Concessionada;113;Mais de 100 km atÃ© 250 km;Bom
-27;BR-020;BR-010, BR-030;DF;Centro-Oeste;BrasÃ­lia;BrasÃ­lia;Federal;PÃºblica;58;AtÃ© 100 km;Bom
-26;BR-101;BR-290;RS;Sul;Torres;OsÃ³rio;Federal;Concessionada;95;AtÃ© 100 km;Bom
-25;BR-050;BR-262, BR-365, BR-455, BR-464;MG;Sudeste;Araguari;Delta;Federal;Concessionada;214;Mais de 100 km atÃ© 250 km;Bom
-24;SP-333;BR-153;SP;Sudeste;SertÃ£ozinho;FlorÃ­nia;Estadual;Concessionada;362;Mais de 250 km atÃ© 500 km;Bom
-23;SP-065;-;SP;Sudeste;Campinas;JacareÃ­;Estadual;Concessionada;147;Mais de 100 km atÃ© 250 km;Bom
-22;SP-070;-;SP;Sudeste;TaubatÃ©;Guarulhos;Estadual;Concessionada;136;Mais de 100 km atÃ© 250 km;Bom
-21;ES-060;-;ES;Sudeste;VitÃ³ria;Guarapari;Estadual;Concessionada;65;AtÃ© 100 km;Bom
-20;PR-151;-;PR;Sul;SengÃ©s;Ponta Grossa;Estadual;Concessionada;152;Mais de 100 km atÃ© 250 km;Bom
-19;CE-040;-;CE;Nordeste;EusÃ©bio;Aracati;Estadual;PÃºblica;128;Mais de 100 km atÃ© 250 km;Ã“timo
-18;SP-322;BR-265;SP;Sudeste;Bebedouro;RibeirÃ£o Preto;Estadual;Concessionada;87;AtÃ© 100 km;Ã“timo
-17;SP-310;BR-262, BR-456;SP;Sudeste;Ilha Solteira;Mirassol;Estadual;PÃºblica;210;Mais de 100 km atÃ© 250 km;Ã“timo
-16;RJ-124;-;RJ;Sudeste;Rio Bonito;SÃ£o Pedro da Aldeia;Estadual;Concessionada;57;AtÃ© 100 km;Ã“timo
-15;BR-020;BR-030, BR-349;GO;Centro-Oeste;Guarani de GoiÃ¡s;Formosa;Federal;PÃºblica;247;Mais de 100 km atÃ© 250 km;Ã“timo
-14;SP-101;-;SP;Sudeste;Campinas;TietÃª;Estadual;Concessionada;72;AtÃ© 100 km;Ã“timo
-13;SP-310;BR-267, BR-364, BR-456;SP;Sudeste;Mirassol;CordeirÃ³polis;Estadual;Concessionada;303;Mais de 250 km atÃ© 500 km;Ã“timo
-12;SP-127;BR-373;SP;Sudeste;Rio Claro;CapÃ£o Bonito;Estadual;Concessionada;196;Mais de 100 km atÃ© 250 km;Ã“timo
-11;SP-270;BR-267, BR-374;SP;Sudeste;Presidente EpitÃ¡cio;Ourinhos;Estadual;Concessionada;272;Mais de 250 km atÃ© 500 km;Ã“timo
-10;SP-147;BR-373;SP;Sudeste;Itapira;Piracicaba;Estadual;Concessionada;89;AtÃ© 100 km;Ã“timo
-9;SP-330;BR-050, BR-267;SP;Sudeste;Igarapava;SÃ£o Paulo;Estadual;Concessionada;441;Mais de 250 km atÃ© 500 km;Ã“timo
-8;SP-308;BR-478;SP;Sudeste;Charqueada;Salto;Estadual;Concessionada;83;AtÃ© 100 km;Ã“timo
-7;SP-300;BR-154, BR-262, BR-267;SP;Sudeste;Castilho;JundiaÃ­;Estadual;Concessionada;608;Mais de 500 km;Ã“timo
-6;SP-075;-;SP;Sudeste;Campinas;Sorocaba;Estadual;Concessionada;78;AtÃ© 100 km;Ã“timo
-5;SP-280;BR-374;SP;Sudeste;Santa Cruz do Rio Pardo;SÃ£o Paulo;Estadual;Concessionada;303;Mais de 250 km atÃ© 500 km;Ã“timo
-4;SP-334;-;SP;Sudeste;Cristais Paulista;RibeirÃ£o Preto;Estadual;Concessionada;89;AtÃ© 100 km;Ã“timo
-3;SP-225;BR-369;SP;Sudeste;Itirapina;Santa Cruz do Rio Pardo;Estadual;Concessionada;225;Mais de 100 km atÃ© 250 km;Ã“timo
-2;SP-348;-;SP;Sudeste;CordeirÃ³polis;SÃ£o Paulo;Estadual;Concessionada;157;Mais de 100 km atÃ© 250 km;Ã“timo
-1;SP-320;-;SP;Sudeste;RubinÃ©ia;Mirassol;Estadual;PÃºblica;185;Mais de 100 km atÃ© 250 km;Ã“timo
+Ranking;Rodovia;Sobreposições existentes;UF;Região;Município inicial;Município final;Jurisdição;Gestão;Extensão pesquisada (KM);Escalas de extensão;Classificação geral
+505;BR-163;BR-282;SC;Sul;Dionísio Cerqueira;São Miguel do Oeste;Federal;Pública;59;Até 100 km;Péssimo
+504;RS-153;BR-153: BR-471;RS;Sul;Barros Cassal;Vera Cruz;Estadual;Pública;82;Até 100 km;Péssimo
+503;AC-405;BR-364;AC;Norte;Mâncio Lima;Rodrigues Alves;Estadual;Pública;64;Até 100 km;Péssimo
+502;AC-010;-;AC;Norte;Porto Acre;Rio Branco;Estadual;Pública;66;Até 100 km;Péssimo
+501;AM-010;-;AM;Norte;Manaus;Itacoatiara;Estadual;Pública;253;Mais de 250 km até 500 km;Péssimo
+500;BA-122;BR-122: BR-330: BR-349;BA;Nordeste;Morro do Chapéu;Seabra;Estadual;Pública;126;Mais de 100 km até 250 km;Péssimo
+499;PE-177;-;PE;Nordeste;Quipapá;Garanhuns;Estadual;Pública;55;Até 100 km;Péssimo
+498;PE-545;BR-122;PE;Nordeste;Exu;Ouricuri;Estadual;Pública;76;Até 100 km;Péssimo
+497;MA-006;BR-330;MA;Nordeste;Buriticupu;Alto Parnaíba;Estadual;Pública;652;Mais de 500 km;Péssimo
+496;PE-096;-;PE;Nordeste;Palmares;Barreiros;Estadual;Pública;50;Até 100 km;Péssimo
+495;RJ-148;-;RJ;Sudeste;Carmo;Nova Friburgo;Estadual;Pública;63;Até 100 km;Péssimo
+494;BR-364;BR-307;AC;Norte;Cruzeiro do Sul;Acrelândia;Federal;Pública;762;Mais de 500 km;Péssimo
+493;TO-335;-;TO;Norte;Palmeirante;Couto Magalhães;Estadual;Pública;183;Mais de 100 km até 250 km;Péssimo
+492;PE-126;-;PE;Nordeste;Palmares;Quipapá;Estadual;Pública;55;Até 100 km;Péssimo
+491;RS-471;BR-471;RS;Sul;Pantano Grande;Canguçu;Estadual;Pública;128;Mais de 100 km até 250 km;Péssimo
+490;PI-141;BR-324;PI;Nordeste;Eliseu Martins;São João do Piauí;Estadual;Pública;176;Mais de 100 km até 250 km;Péssimo
+489;BR-421;-;RO;Norte;Ariquemes;Monte Negro;Federal;Pública;70;Até 100 km;Péssimo
+488;PB-066;BR-408;PB;Nordeste;Ingá;Juripiranga;Estadual;Pública;54;Até 100 km;Péssimo
+487;BA-142;BR-407;BA;Nordeste;Tanhaçu;Anagé;Estadual;Pública;57;Até 100 km;Péssimo
+486;BR-155;-;PA;Norte;Marabá;Redenção;Federal;Pública;345;Mais de 250 km até 500 km;Péssimo
+485;MG-190;-;MG;Sudeste;Abadia dos Dourados;Romaria;Estadual;Pública;58;Até 100 km;Péssimo
+484;PB-386;BR-361;PB;Nordeste;Itaporanga;Conceição;Estadual;Pública;58;Até 100 km;Ruim
+483;MG-462;BR-462;MG;Sudeste;Patrocínio;Perdizes;Estadual;Pública;69;Até 100 km;Ruim
+482;BA-026;BR-030: BR-330: BR-407;BA;Nordeste;Maracás;Tanhaçu;Estadual;Pública;113;Mais de 100 km até 250 km;Ruim
+481;SC-350;-;SC;Sul;Água Doce;Santa Cecília;Estadual;Pública;131;Mais de 100 km até 250 km;Ruim
+480;MA-034;BR-222;MA;Nordeste;Tutóia;Brejo;Estadual;Pública;161;Mais de 100 km até 250 km;Ruim
+479;GO-184;BR-158;GO;Centro-Oeste;Jataí;Aporé;Estadual;Pública;145;Mais de 100 km até 250 km;Ruim
+478;PB-238;-;PB;Nordeste;Assunção;Teixeira;Estadual;Pública;74;Até 100 km;Ruim
+477;TO-387;-;TO;Norte;Paranã;Jaú do Tocantins;Estadual;Pública;125;Mais de 100 km até 250 km;Ruim
+476;PE-604;BR-122;PE;Nordeste;Ouricuri;Lagoa Grande;Estadual;Pública;127;Mais de 100 km até 250 km;Ruim
+475;MA-106;BR-308;MA;Nordeste;Governador Nunes Freire;Alcântara;Estadual;Pública;239;Mais de 100 km até 250 km;Ruim
+474;MS-377;-;MS;Centro-Oeste;Inocência;Água Clara;Estadual;Pública;128;Mais de 100 km até 250 km;Ruim
+473;GO-142;-;GO;Centro-Oeste;Montividiu do Norte;Formoso;Estadual;Pública;75;Até 100 km;Ruim
+472;RJ-155;BR-494;RJ;Sudeste;Barra Mansa;Angra dos Reis;Estadual;Pública;78;Até 100 km;Ruim
+471;RS-640;-;RS;Sul;São Vicente do Sul;Rosário do Sul;Estadual;Pública;64;Até 100 km;Ruim
+470;PE-265;BR-110;PE;Nordeste;Sertânia;Sertânia;Estadual;Pública;50;Até 100 km;Ruim
+469;MS-240;-;MS;Centro-Oeste;Paranaíba;Inocência;Estadual;Pública;81;Até 100 km;Ruim
+468;SC-135;-;SC;Sul;Caçador;Tangará;Estadual;Pública;58;Até 100 km;Ruim
+467;BR-158;BR-060: BR-070: BR-364;GO;Centro-Oeste;Aragarças;Jataí;Federal;Pública;281;Mais de 250 km até 500 km;Ruim
+466;SE-170;BR-349: SE-270;SE;Nordeste;Moita Bonita;Tobias Barreto;Estadual;Pública;101;Mais de 100 km até 250 km;Ruim
+465;RS-377;BR-377;RS;Sul;Jóia;Alegrete;Estadual;Pública;232;Mais de 100 km até 250 km;Ruim
+464;MA-006;BR-308;MA;Nordeste;Cururupu;Pinheiro;Estadual;Pública;98;Até 100 km;Ruim
+463;PB-400;-;PB;Nordeste;Cajazeiras;Conceição;Estadual;Pública;102;Mais de 100 km até 250 km;Ruim
+462;PE-275;BR-110;PE;Nordeste;Brejinho;Sertânia;Estadual;Pública;104;Mais de 100 km até 250 km;Ruim
+461;GO-050;BR-060;GO;Centro-Oeste;Jataí;Chapadão do Céu;Estadual;Pública;126;Mais de 100 km até 250 km;Ruim
+460;RS-472;BR-472;RS;Sul;Frederico Westphalen;Três Passos;Estadual;Pública;70;Até 100 km;Ruim
+459;GO-330;BR-352: BR-457;GO;Centro-Oeste;Anápolis;Catalão;Estadual;Pública;219;Mais de 100 km até 250 km;Ruim
+458;MG-482;BR-356: BR-482;MG;Sudeste;Conselheiro Lafaiete;Viçosa;Estadual;Pública;129;Mais de 100 km até 250 km;Ruim
+457;MT-343;-;MT;Centro-Oeste;Arenápolis;Barra do Bugres;Estadual;Pública;78;Até 100 km;Ruim
+456;PE-060;-;PE;Nordeste;Cabo de Santo Agostinho;Barreiros;Estadual;Pública;73;Até 100 km;Ruim
+455;MG-290;-;MG;Sudeste;Pouso Alegre;Jacutinga;Estadual;Pública;98;Até 100 km;Ruim
+454;MG-265;BR-265;MG;Sudeste;Ubá;Mercês;Estadual;Pública;68;Até 100 km;Ruim
+453;PE-090;-;PE;Nordeste;Carpina;Vertentes;Estadual;Pública;94;Até 100 km;Ruim
+452;RS-481;BR-481;RS;Sul;Cruz Alta;Novo Cabrais;Estadual;Pública;133;Mais de 100 km até 250 km;Ruim
+451;TO-050;BR-010;TO;Norte;Palmas;Silvanópolis;Estadual;Pública;106;Mais de 100 km até 250 km;Ruim
+450;SC-305;-;SC;Sul;São Lourenço do Oeste;Guaraciaba;Estadual;Pública;71;Até 100 km;Ruim
+449;BR-352;-;MG;Sudeste;Abaeté;Pará de Minas;Federal;Pública;122;Mais de 100 km até 250 km;Ruim
+448;GO-164;BR-483;GO;Centro-Oeste;Quirinópolis;São Simão;Estadual;Pública;70;Até 100 km;Ruim
+447;MG-427;-;MG;Sudeste;Uberaba;Planura;Estadual;Pública;104;Mais de 100 km até 250 km;Ruim
+446;BA-130;BR-407;BA;Nordeste;Capim Grosso;Boa Vista do Tupim;Estadual;Pública;161;Mais de 100 km até 250 km;Ruim
+445;MG-267;BR-267: BR-383;MG;Sudeste;Campanha;Caxambu;Estadual;Pública;69;Até 100 km;Ruim
+444;TO-498;-;TO;Norte;Peixe;Jaú do Tocantins;Estadual;Pública;79;Até 100 km;Ruim
+443;PR-317;-;PR;Sul;Toledo;Santa Helena;Estadual;Pública;89;Até 100 km;Ruim
+442;PR-092;BR-272;PR;Sul;Santo Antônio da Platina;Jaguariaíva;Estadual;Pública;128;Mais de 100 km até 250 km;Ruim
+441;AP-010;-;AP;Norte;Macapá;Mazagão;Estadual;Pública;70;Até 100 km;Ruim
+440;PA-150;-;PA;Norte;Tailândia;Marabá;Estadual;Pública;333;Mais de 250 km até 500 km;Ruim
+439;BR-158;-;PA;Norte;Redenção;Santana do Araguaia;Federal;Pública;306;Mais de 250 km até 500 km;Ruim
+438;RS-020;-;RS;Sul;Três Coroas;Gravataí;Estadual;Pública;62;Até 100 km;Ruim
+437;RN-118;-;RN;Nordeste;Macau;Itajá;Estadual;Pública;73;Até 100 km;Ruim
+436;MG-383;BR-383;MG;Sudeste;Madre de Deus de Minas;Cruzília;Estadual;Pública;69;Até 100 km;Ruim
+435;GO-341;BR-359;GO;Centro-Oeste;Mineiros;Mineiros;Estadual;Pública;113;Mais de 100 km até 250 km;Ruim
+434;PA-287;-;PA;Norte;Redenção;Conceição do Araguaia;Estadual;Pública;98;Até 100 km;Ruim
+433;MG-482;BR-482;MG;Sudeste;Espera Feliz;Fervedouro;Estadual;Pública;63;Até 100 km;Ruim
+432;BA-130;BR-330;BA;Nordeste;Maracás;Jequié;Estadual;Pública;68;Até 100 km;Ruim
+431;SC-283;BR-283;SC;Sul;Palmitos;Concórdia;Estadual;Pública;164;Mais de 100 km até 250 km;Ruim
+430;BA-161;-;BA;Nordeste;Bom Jesus da Lapa;Carinhanha;Estadual;Pública;129;Mais de 100 km até 250 km;Ruim
+429;RSC-101;BR-101;RS;Sul;Capivari do Sul;São José do Norte;Estadual;Pública;243;Mais de 100 km até 250 km;Ruim
+428;BR-174;BR-319;AM;Norte;Presidente Figueiredo;Borba;Federal;Pública;470;Mais de 250 km até 500 km;Ruim
+427;GO-206;BR-154: BR-483;GO;Centro-Oeste;Itumbiara;Itarumã;Estadual;Pública;226;Mais de 100 km até 250 km;Ruim
+426;ES-137;BR-381;ES;Sudeste;Nova Venécia;São Domingos do Norte;Estadual;Pública;63;Até 100 km;Ruim
+425;PE-360;-;PE;Nordeste;Ibimirim;Floresta;Estadual;Pública;101;Mais de 100 km até 250 km;Ruim
+424;MG-383;BR-383: BR-494;MG;Sudeste;Congonhas;São João del Rei;Estadual;Pública;108;Mais de 100 km até 250 km;Ruim
+423;TO-020;BR-010;TO;Norte;Aparecida do Rio Negro;Palmas;Estadual;Pública;66;Até 100 km;Ruim
+422;MG-381;BR-381;MG;Sudeste;Mantena;Galiléia;Estadual;Pública;109;Mais de 100 km até 250 km;Ruim
+421;BR-317;-;AC;Norte;Senador Guiomard;Assis Brasil;Federal;Pública;412;Mais de 250 km até 500 km;Ruim
+420;RJ-130;BR-492;RJ;Sudeste;Nova Friburgo;Teresópolis;Estadual;Pública;70;Até 100 km;Ruim
+419;MG-401;-;MG;Sudeste;Jaíba;Janaúba;Estadual;Pública;86;Até 100 km;Ruim
+418;MG-354;BR-354;MG;Sudeste;Guarda-Mor;Patos de Minas;Estadual;Pública;133;Mais de 100 km até 250 km;Ruim
+417;BR-317;-;AM;Norte;Boca do Acre;Lábrea;Federal;Pública;70;Até 100 km;Ruim
+416;BR-424;-;PE;Nordeste;Arcoverde;Correntes;Federal;Pública;135;Mais de 100 km até 250 km;Ruim
+415;BA-330;BR-330;BA;Nordeste;Gentio do Ouro;Gentio do Ouro;Estadual;Pública;54;Até 100 km;Ruim
+414;BR-158;-;PR;Sul;Palmital;Laranjeiras do Sul;Federal;Pública;75;Até 100 km;Ruim
+413;MG-188;BR-354;MG;Sudeste;Unaí;Patrocínio;Estadual;Pública;311;Mais de 250 km até 500 km;Ruim
+412;MG-122;BR-122;MG;Sudeste;Espinosa;Francisco Sá;Estadual;Pública;263;Mais de 250 km até 500 km;Ruim
+411;RSC-453;BR-453;RS;Sul;São Francisco de Paula;Caxias do Sul;Estadual;Pública;53;Até 100 km;Ruim
+410;BR-153;BR-280: BR-476;PR;Sul;Imbituva;General Carneiro;Federal;Pública;226;Mais de 100 km até 250 km;Ruim
+409;BR-420;BR-101;BA;Nordeste;Santo Antônio de Jesus;Jaguaquara;Federal;Pública;151;Mais de 100 km até 250 km;Ruim
+408;TO-010;-;TO;Norte;Lajeado;Palmas;Estadual;Pública;62;Até 100 km;Ruim
+407;MG-369;BR-369;MG;Sudeste;Oliveira;Alfenas;Estadual;Pública;172;Mais de 100 km até 250 km;Ruim
+406;SC-480;BR-480;SC;Sul;São Lourenço do Oeste;Chapecó;Estadual;Pública;129;Mais de 100 km até 250 km;Ruim
+405;SP-171;-;SP;Sudeste;Guaratinguetá;Cunha;Estadual;Pública;71;Até 100 km;Ruim
+404;BR-319;BR-174: BR-230;AM;Norte;Careiro da Várzea;Canutama;Federal;Pública;402;Mais de 250 km até 500 km;Ruim
+403;BR-122;BR-116;CE;Nordeste;Chorozinho;Solonópole;Federal;Pública;210;Mais de 100 km até 250 km;Ruim
+402;MG-460;BR-460;MG;Sudeste;Cambuquira;Pouso Alto;Estadual;Pública;79;Até 100 km;Ruim
+401;RS-324;-;RS;Sul;Passo Fundo;Nova Prata;Estadual;Pública;113;Mais de 100 km até 250 km;Ruim
+400;RS-030;-;RS;Sul;Gravataí;Tramandaí;Estadual;Pública;98;Até 100 km;Ruim
+399;MG-497;BR-464: BR-497;MG;Sudeste;Uberlândia;Carneirinho;Estadual;Pública;309;Mais de 250 km até 500 km;Ruim
+398;MT-449;-;MT;Centro-Oeste;Tapurah;Lucas do Rio Verde;Estadual;Concessionada;73;Até 100 km;Ruim
+397;CE-375;BR-122;CE;Nordeste;Solonópole;Quixelô;Estadual;Pública;66;Até 100 km;Ruim
+396;MG-452;BR-452;MG;Sudeste;Araporã;Nova Ponte;Estadual;Pública;155;Mais de 100 km até 250 km;Ruim
+395;RJ-158;BR-492;RJ;Sudeste;São Fidélis;Campos dos Goytacazes;Estadual;Pública;62;Até 100 km;Ruim
+394;RS-472;BR-472;RS;Sul;Santo Cristo;Porto Xavier;Estadual;Pública;60;Até 100 km;Ruim
+393;PI-140;BR-324;PI;Nordeste;Floriano;Dirceu Arcoverde;Estadual;Pública;320;Mais de 250 km até 500 km;Ruim
+392;BR-383;BR-459;MG;Sudeste;Itajubá;Delfim Moreira;Federal;Pública;53;Até 100 km;Ruim
+391;RJ-186;BR-393: BR-484;RJ;Sudeste;Bom Jesus do Itabapoana;Santo Antônio de Pádua;Estadual;Pública;103;Mais de 100 km até 250 km;Ruim
+390;ES-010;-;ES;Sudeste;Aracruz;Serra;Estadual;Pública;60;Até 100 km;Ruim
+389;SP-079;BR-478;SP;Sudeste;Sorocaba;Juquiá;Estadual;Pública;122;Mais de 100 km até 250 km;Ruim
+388;BR-435;BR-364;RO;Norte;Vilhena;Pimenteiras do Oeste;Federal;Pública;176;Mais de 100 km até 250 km;Ruim
+387;RS-235;-;RS;Sul;Nova Petrópolis;São Francisco de Paula;Estadual;Concessionada;75;Até 100 km;Regular
+386;GO-010;BR-457;GO;Centro-Oeste;Luziânia;Goiânia;Estadual;Pública;184;Mais de 100 km até 250 km;Regular
+385;TO-280;BR-010;TO;Norte;Almas;Peixe;Estadual;Pública;180;Mais de 100 km até 250 km;Regular
+384;GO-174;-;GO;Centro-Oeste;Iporá;Rio Verde;Estadual;Pública;170;Mais de 100 km até 250 km;Regular
+383;BR-153;BR-230;PA;Norte;Marabá;São Geraldo do Araguaia;Federal;Pública;153;Mais de 100 km até 250 km;Regular
+382;BR-222;BR-010;PA;Norte;Dom Eliseu;Marabá;Federal;Pública;246;Mais de 100 km até 250 km;Regular
+381;MG-179;-;MG;Sudeste;Alfenas;Pouso Alegre;Estadual;Pública;104;Mais de 100 km até 250 km;Regular
+380;MT-358;-;MT;Centro-Oeste;Tangará da Serra;Barra do Bugres;Estadual;Pública;127;Mais de 100 km até 250 km;Regular
+379;BR-354;BR-267: BR-383;MG;Sudeste;Baependi;Itamonte;Federal;Pública;84;Até 100 km;Regular
+378;MT-235;-;MT;Centro-Oeste;Sapezal;Campo Novo do Parecis;Estadual;Pública;105;Mais de 100 km até 250 km;Regular
+377;MG-262;-;MG;Sudeste;Mariana;Ponte Nova;Estadual;Pública;73;Até 100 km;Regular
+376;BR-352;-;MG;Sudeste;Abadia dos Dourados;Coromandel;Federal;Pública;67;Até 100 km;Regular
+375;PR-317;-;PR;Sul;Santo Inácio;Maringá;Estadual;Pública;94;Até 100 km;Regular
+374;MG-455;BR-455;MG;Sudeste;Uberlândia;Planura;Estadual;Pública;106;Mais de 100 km até 250 km;Regular
+373;BR-226;BR-116;CE;Nordeste;Crateús;Pereiro;Federal;Pública;270;Mais de 250 km até 500 km;Regular
+372;RJ-106;-;RJ;Sudeste;São Pedro da Aldeia;São Gonçalo;Estadual;Pública;112;Mais de 100 km até 250 km;Regular
+371;MG-259;BR-259: BR-367;MG;Sudeste;Felixlândia;Governador Valadares;Estadual;Pública;409;Mais de 250 km até 500 km;Regular
+370;MG-135;BR-135;MG;Sudeste;São João das Missões;Montes Claros;Estadual;Pública;241;Mais de 100 km até 250 km;Regular
+369;MG-367;BR-367: BR-451;MG;Sudeste;Turmalina;Datas;Estadual;Pública;190;Mais de 100 km até 250 km;Regular
+368;MG-120;BR-120: BR-356: BR-451;MG;Sudeste;Capelinha;Visconde do Rio Branco;Estadual;Pública;498;Mais de 250 km até 500 km;Regular
+367;PR-170;-;PR;Sul;Guarapuava;General Carneiro;Estadual;Pública;178;Mais de 100 km até 250 km;Regular
+366;CE-060;-;CE;Nordeste;Quixadá;Senador Pompeu;Estadual;Pública;82;Até 100 km;Regular
+365;MT-246;-;MT;Centro-Oeste;Barra do Bugres;Jangada;Estadual;Pública;85;Até 100 km;Regular
+364;MG-491;BR-491;MG;Sudeste;São Sebastião do Paraíso;Três Corações;Estadual;Pública;229;Mais de 100 km até 250 km;Regular
+363;PR-280;BR-280;PR;Sul;Marmeleiro;General Carneiro;Estadual;Pública;175;Mais de 100 km até 250 km;Regular
+362;PR-082;BR-487;PR;Sul;Alto Paraíso;Umuarama;Estadual;Pública;78;Até 100 km;Regular
+361;TO-080;-;TO;Norte;Caseara;Palmas;Estadual;Pública;262;Mais de 250 km até 500 km;Regular
+360;BR-472;BR-290: BR-293;RS;Sul;São Borja;Barra do Quaraí;Federal;Pública;251;Mais de 250 km até 500 km;Regular
+359;BR-280;-;SC;Sul;São Francisco do Sul;Porto União;Federal;Pública;301;Mais de 250 km até 500 km;Regular
+358;TO-336;-;TO;Norte;Couto Magalhães;Guaraí;Estadual;Pública;117;Mais de 100 km até 250 km;Regular
+357;BR-430;BR-349;BA;Nordeste;Bom Jesus da Lapa;Caetité;Federal;Pública;153;Mais de 100 km até 250 km;Regular
+356;SC-157;-;SC;Sul;São Lourenço do Oeste;Chapecó;Estadual;Pública;95;Até 100 km;Regular
+355;GO-020;BR-352;GO;Centro-Oeste;Goiânia;Urutaí;Estadual;Pública;149;Mais de 100 km até 250 km;Regular
+354;TO-040;-;TO;Norte;Almas;Ponte Alta do Bom Jesus;Estadual;Pública;113;Mais de 100 km até 250 km;Regular
+353;MS-134;BR-376;MS;Centro-Oeste;Nova Andradina;Batayporã;Estadual;Pública;66;Até 100 km;Regular
+352;MG-123;BR-262;MG;Sudeste;João Monlevade;Dom Silvério;Estadual;Pública;55;Até 100 km;Regular
+351;PA-150;-;PA;Norte;Marituba;Barcarena;Estadual;Pública;70;Até 100 km;Regular
+350;BR-474;-;MG;Sudeste;Aimorés;Caratinga;Federal;Pública;151;Mais de 100 km até 250 km;Regular
+349;BR-251;-;MG;Sudeste;Unaí;Unaí;Federal;Pública;92;Até 100 km;Regular
+348;CE-187;BR-403;CE;Nordeste;Ipu;Crateús;Estadual;Pública;117;Mais de 100 km até 250 km;Regular
+347;BR-222;BR-010: BR-135: BR-316;MA;Nordeste;Chapadinha;Itinga do Maranhão;Federal;Pública;665;Mais de 500 km;Regular
+346;BR-156;BR-210;AP;Norte;Oiapoque;Macapá;Federal;Pública;442;Mais de 250 km até 500 km;Regular
+345;BR-402;BR-403;CE;Nordeste;Marco;Umirim;Federal;Pública;124;Mais de 100 km até 250 km;Regular
+344;CE-085;BR-402;CE;Nordeste;Cruz;Chaval;Estadual;Pública;144;Mais de 100 km até 250 km;Regular
+343;BR-361;BR-426;PB;Nordeste;Patos;Itaporanga;Federal;Pública;114;Mais de 100 km até 250 km;Regular
+342;BR-367;BR-342;MG;Sudeste;Jacinto;Araçuaí;Federal;Pública;228;Mais de 100 km até 250 km;Regular
+341;BR-153;-;SC;Sul;Água Doce;Concórdia;Federal;Pública;119;Mais de 100 km até 250 km;Regular
+340;MG-342;BR-342;MG;Sudeste;Salinas;Araçuaí;Estadual;Pública;108;Mais de 100 km até 250 km;Regular
+339;BR-280;BR-163: BR-373;PR;Sul;Marmeleiro;Barracão;Federal;Pública;72;Até 100 km;Regular
+338;SE-270;BR-349;SE;Nordeste;Simão Dias;Itaporanga d'Ajuda;Estadual;Pública;62;Até 100 km;Regular
+337;ES-381;BR-381;ES;Sudeste;São Mateus;Barra de São Francisco;Estadual;Pública;112;Mais de 100 km até 250 km;Regular
+336;BR-116;BR-324;BA;Nordeste;Abaré;Feira de Santana;Federal;Pública;436;Mais de 250 km até 500 km;Regular
+335;BR-101;BR-040: BR-116: BR-459: BR-465: BR-494;RJ;Sudeste;Rio de Janeiro;Paraty;Federal;Pública;264;Mais de 250 km até 500 km;Regular
+334;BR-122;BR-030;BA;Nordeste;Caetité;Urandi;Federal;Pública;152;Mais de 100 km até 250 km;Regular
+333;BR-470;BR-285: BR-453;RS;Sul;Barracão;São Jerônimo;Federal;Pública;293;Mais de 250 km até 500 km;Regular
+332;BR-470;BR-282: BR-283: BR-477;SC;Sul;Navegantes;Campos Novos;Federal;Pública;359;Mais de 250 km até 500 km;Regular
+331;BR-476;BR-153: BR-277: BR-376;PR;Sul;Adrianópolis;União da Vitória;Federal;Pública;314;Mais de 250 km até 500 km;Regular
+330;BR-342;-;ES;Sudeste;Ecoporanga;Nova Venécia;Federal;Pública;62;Até 100 km;Regular
+329;CE-362;-;CE;Nordeste;Granja;Sobral;Estadual;Pública;101;Mais de 100 km até 250 km;Regular
+328;BA-131;-;BA;Nordeste;Jacobina;Piritiba;Estadual;Pública;66;Até 100 km;Regular
+327;CE-292;BR-122: BR-230;CE;Nordeste;Salitre;Juazeiro do Norte;Estadual;Pública;153;Mais de 100 km até 250 km;Regular
+326;MG-154;BR-154;MG;Sudeste;Cachoeira Dourada;Ituiutaba;Estadual;Pública;56;Até 100 km;Regular
+325;MG-418;BR-418;MG;Sudeste;Teófilo Otoni;Serra dos Aimorés;Estadual;Pública;179;Mais de 100 km até 250 km;Regular
+324;MG-215;BR-251;MG;Sudeste;Unaí;Bonfinópolis de Minas;Estadual;Pública;82;Até 100 km;Regular
+323;MT-240;-;MT;Centro-Oeste;Diamantino;Arenápolis;Estadual;Pública;59;Até 100 km;Regular
+322;GO-139;-;GO;Centro-Oeste;Vianópolis;Corumbaíba;Estadual;Pública;205;Mais de 100 km até 250 km;Regular
+321;GO-213;BR-490;GO;Centro-Oeste;Morrinhos;Ipameri;Estadual;Pública;117;Mais de 100 km até 250 km;Regular
+320;BR-259;BR-381;MG;Sudeste;Governador Valadares;Aimorés;Federal;Pública;166;Mais de 100 km até 250 km;Regular
+319;CE-085;-;CE;Nordeste;Itapipoca;São Gonçalo do Amarante;Estadual;Pública;91;Até 100 km;Regular
+318;SP-055;BR-101;SP;Sudeste;Ubatuba;Miracatu;Estadual;Pública;295;Mais de 250 km até 500 km;Regular
+317;MS-395;-;MS;Centro-Oeste;Brasilândia;Bataguassu;Estadual;Pública;68;Até 100 km;Regular
+316;BR-030;BR-122: BR-342;BA;Nordeste;Tanhaçu;Carinhanha;Federal;Pública;305;Mais de 250 km até 500 km;Regular
+315;TO-373;-;TO;Norte;Peixe;Araguaçu;Estadual;Pública;192;Mais de 100 km até 250 km;Regular
+314;BR-354;BR-352: BR-365: BR-369;MG;Sudeste;Patos de Minas;Perdões;Federal;Pública;351;Mais de 250 km até 500 km;Regular
+313;BR-494;BR-265: BR-383;MG;Sudeste;Nova Serrana;São João del Rei;Federal;Pública;203;Mais de 100 km até 250 km;Regular
+312;BR-265;BR-146: BR-369: BR-383: BR-494;MG;Sudeste;São Sebastião do Paraíso;Barbacena;Federal;Pública;392;Mais de 250 km até 500 km;Regular
+311;BA-160;BR-330;BA;Nordeste;Xique-Xique;Xique-Xique;Estadual;Concessionada;86;Até 100 km;Regular
+310;BR-267;BR-116: BR-354: BR-383;MG;Sudeste;Leopoldina;Caxambu;Federal;Pública;303;Mais de 250 km até 500 km;Regular
+309;BR-364;BR-174: BR-425: BR-429: BR-435;RO;Norte;Porto Velho;Vilhena;Federal;Pública;1111;Mais de 500 km;Regular
+308;BA-144;BR-122;BA;Nordeste;Jacobina;Morro do Chapéu;Estadual;Pública;76;Até 100 km;Regular
+307;BR-158;BR-287: BR-290: BR-293: BR-377: BR-386: BR-392;RS;Sul;Iraí;Sant'ana do Livramento;Federal;Pública;568;Mais de 500 km;Regular
+306;PR-158;BR-158;PR;Sul;Laranjeiras do Sul;Chopinzinho;Estadual;Pública;78;Até 100 km;Regular
+305;BR-158;BR-282: BR-283;SC;Sul;Maravilha;Palmitos;Federal;Pública;51;Até 100 km;Regular
+304;BR-070;BR-158;GO;Centro-Oeste;Itapirapuã;Aragarças;Federal;Pública;185;Mais de 100 km até 250 km;Regular
+303;BR-404;BR-343: BR-407;PI;Nordeste;Piripiri;Pedro II;Federal;Pública;80;Até 100 km;Regular
+302;BR-010;BR-242;TO;Norte;Silvanópolis;Paranã;Federal;Pública;218;Mais de 100 km até 250 km;Regular
+301;GO-217;-;GO;Centro-Oeste;Piracanjuba;Piracanjuba;Estadual;Pública;54;Até 100 km;Regular
+300;BR-282;BR-158: BR-163: BR-283: BR-470: BR-475: BR-480;SC;Sul;Paraíso;Florianópolis;Federal;Pública;673;Mais de 500 km;Regular
+299;BR-230;BR-153: BR-163;PA;Norte;Itaituba;Palestina do Pará;Federal;Pública;804;Mais de 500 km;Regular
+298;BR-429;BR-364;RO;Norte;Ji-Paraná;Costa Marques;Federal;Pública;379;Mais de 250 km até 500 km;Regular
+297;MT-242;BR-242;MT;Centro-Oeste;Ipiranga do Norte;Sorriso;Estadual;Concessionada;139;Mais de 100 km até 250 km;Regular
+296;BR-367;-;MG;Sudeste;Berilo;Turmalina;Federal;Pública;99;Até 100 km;Regular
+295;RS-122;-;RS;Sul;Ipê;Caxias do Sul;Estadual;Concessionada;50;Até 100 km;Regular
+294;RJ-116;BR-492;RJ;Sudeste;Macuco;Itaboraí;Estadual;Concessionada;139;Mais de 100 km até 250 km;Regular
+293;BR-316;BR-135: BR-222: BR-226;MA;Nordeste;Boa Vista do Gurupi;Timon;Federal;Pública;631;Mais de 500 km;Regular
+292;TO-050;-;TO;Norte;Natividade;Arraias;Estadual;Pública;171;Mais de 100 km até 250 km;Regular
+291;BR-405;-;PB;Nordeste;Uiraúna;Marizópolis;Federal;Pública;53;Até 100 km;Regular
+290;SP-312;-;SP;Sudeste;Itu;Barueri;Estadual;Pública;65;Até 100 km;Regular
+289;BR-482;BR-484;ES;Sudeste;Dores do Rio Preto;Cachoeiro de Itapemirim;Federal;Pública;106;Mais de 100 km até 250 km;Regular
+288;BR-146;BR-265: BR-267: BR-459: BR-491;MG;Sudeste;Passos;Jacutinga;Federal;Pública;201;Mais de 100 km até 250 km;Regular
+287;BR-423;BR-232;PE;Nordeste;Caruaru;Itaíba;Federal;Pública;199;Mais de 100 km até 250 km;Regular
+286;BR-356;-;MG;Sudeste;Ervália;Patrocínio do Muriaé;Federal;Pública;75;Até 100 km;Regular
+285;BR-349;BR-020: BR-135: BR-430;BA;Nordeste;Bom Jesus da Lapa;Jaborandi;Federal;Pública;352;Mais de 250 km até 500 km;Regular
+284;BA-460;-;BA;Nordeste;Barreiras;Luís Eduardo Magalhães;Estadual;Pública;55;Até 100 km;Regular
+283;SP-125;BR-383;SP;Sudeste;Taubaté;Ubatuba;Estadual;Pública;94;Até 100 km;Regular
+282;BR-452;BR-462;MG;Sudeste;Nova Ponte;Araxá;Federal;Pública;102;Mais de 100 km até 250 km;Regular
+281;PR-466;BR-466;PR;Sul;Jandaia do Sul;Guarapuava;Estadual;Pública;220;Mais de 100 km até 250 km;Regular
+280;BR-407;BR-343: BR-404;PI;Nordeste;Piripiri;Pedro II;Federal;Pública;55;Até 100 km;Regular
+279;BR-364;BR-060: BR-158;GO;Centro-Oeste;Santa Rita do Araguaia;Jataí;Federal;Pública;194;Mais de 100 km até 250 km;Regular
+278;BR-104;-;PE;Nordeste;Taquaritinga do Norte;Quipapá;Federal;Pública;154;Mais de 100 km até 250 km;Regular
+277;BR-163;BR-280: BR-373: BR-467;PR;Sul;Guaíra;Barracão;Federal;Pública;342;Mais de 250 km até 500 km;Regular
+276;BR-330;-;BA;Nordeste;Jequié;Ubaitaba;Federal;Pública;103;Mais de 100 km até 250 km;Regular
+275;BR-405;-;RN;Nordeste;Mossoró;Luís Gomes;Federal;Pública;196;Mais de 100 km até 250 km;Regular
+274;BR-226;BR-010: BR-135: BR-230: BR-316;MA;Nordeste;Timon;Estreito;Federal;Pública;540;Mais de 500 km;Regular
+273;PR-272;BR-272;PR;Sul;Mauá da Serra;Cruzmaltina;Estadual;Pública;55;Até 100 km;Regular
+272;RS-135;-;RS;Sul;Erechim;Passo Fundo;Estadual;Concessionada;77;Até 100 km;Regular
+271;GO-164;-;GO;Centro-Oeste;São Miguel do Araguaia;São Luís de Montes Belos;Estadual;Pública;461;Mais de 250 km até 500 km;Regular
+270;GO-237;-;GO;Centro-Oeste;Niquelândia;Uruaçu;Estadual;Pública;86;Até 100 km;Regular
+269;BR-427;BR-110: BR-226;RN;Nordeste;Currais Novos;Serra Negra do Norte;Federal;Pública;167;Mais de 100 km até 250 km;Regular
+268;BR-376;-;MS;Centro-Oeste;Dourados;Nova Andradina;Federal;Pública;177;Mais de 100 km até 250 km;Regular
+267;BR-135;BR-222: BR-226: BR-230: BR-316;MA;Nordeste;São Luís;São João dos Patos;Federal;Pública;601;Mais de 500 km;Regular
+266;BR-285;BR-116: BR-153: BR-287: BR-377: BR-470;RS;Sul;São Borja;São José dos Ausentes;Federal;Pública;667;Mais de 500 km;Regular
+265;BR-060;-;MS;Centro-Oeste;Chapadão do Sul;Bandeirantes;Federal;Pública;242;Mais de 100 km até 250 km;Regular
+264;BR-020;-;PI;Nordeste;Pio IX;Várzea Branca;Federal;Pública;438;Mais de 250 km até 500 km;Regular
+263;BR-386;BR-158: BR-377;RS;Sul;Iraí;Carazinho;Federal;Pública;180;Mais de 100 km até 250 km;Regular
+262;BR-163;BR-230;PA;Norte;Santarém;Novo Progresso;Federal;Pública;971;Mais de 500 km;Regular
+261;BR-459;BR-146: BR-267: BR-383;MG;Sudeste;Poços de Caldas;Delfim Moreira;Federal;Pública;216;Mais de 100 km até 250 km;Regular
+260;BR-226;BR-104: BR-110: BR-304: BR-427;RN;Nordeste;Natal;Pau dos Ferros;Federal;Pública;384;Mais de 250 km até 500 km;Regular
+259;RS-453;BR-453;RS;Sul;Garibaldi;Venâncio Aires;Estadual;Concessionada;88;Até 100 km;Regular
+258;BR-226;BR-316: BR-343;PI;Nordeste;Coivaras;Teresina;Federal;Pública;74;Até 100 km;Regular
+257;MG-496;BR-496;MG;Sudeste;Pirapora;Corinto;Estadual;Pública;136;Mais de 100 km até 250 km;Regular
+256;MT-140;-;MT;Centro-Oeste;Sorriso;Santa Rita do Trivelato;Estadual;Concessionada;75;Até 100 km;Regular
+255;MT-320;-;MT;Centro-Oeste;Carlinda;Nova Santa Helena;Estadual;Concessionada;153;Mais de 100 km até 250 km;Regular
+254;BR-153;-;PR;Sul;Jacarezinho;Santo Antônio da Platina;Federal;Concessionada;51;Até 100 km;Regular
+253;PR-495;-;PR;Sul;Marechal Cândido Rondon;Medianeira;Estadual;Pública;79;Até 100 km;Regular
+252;BR-287;BR-158: BR-285: BR-392;RS;Sul;São Borja;Santa Maria;Federal;Pública;293;Mais de 250 km até 500 km;Regular
+251;MT-130;-;MT;Centro-Oeste;Primavera do Leste;Rondonópolis;Estadual;Concessionada;111;Mais de 100 km até 250 km;Regular
+250;BR-356;BR-484;RJ;Sudeste;Itaperuna;São João da Barra;Federal;Pública;177;Mais de 100 km até 250 km;Regular
+249;TO-222;-;TO;Norte;Araguaína;Filadélfia;Estadual;Pública;111;Mais de 100 km até 250 km;Regular
+248;BR-324;BR-135: BR-343;PI;Nordeste;Bertolínia;Eliseu Martins;Federal;Pública;92;Até 100 km;Regular
+247;RS-480;BR-480;RS;Sul;Nonoai;Barão de Cotegipe;Estadual;Pública;61;Até 100 km;Regular
+246;BA-001;BR-242: BR-420;BA;Nordeste;Itaparica;Nazaré;Estadual;Pública;60;Até 100 km;Regular
+245;BR-174;BR-070: BR-364;MT;Centro-Oeste;Comodoro;Cáceres;Federal;Pública;615;Mais de 500 km;Regular
+244;BA-263;-;BA;Nordeste;Floresta Azul;Vitória da Conquista;Estadual;Pública;190;Mais de 100 km até 250 km;Regular
+243;BR-468;BR-472;RS;Sul;Tiradentes do Sul;Palmeira das Missões;Federal;Pública;142;Mais de 100 km até 250 km;Regular
+242;BR-381;BR-259: BR-262;MG;Sudeste;Governador Valadares;Contagem;Federal;Pública;359;Mais de 250 km até 500 km;Regular
+241;MS-306;BR-359;MS;Centro-Oeste;Costa Rica;Cassilândia;Estadual;Concessionada;218;Mais de 100 km até 250 km;Regular
+240;MG-451;BR-451;MG;Sudeste;Bocaiúva;Senador Modestino Gonçalves;Estadual;Pública;99;Até 100 km;Regular
+239;RS-287;BR-287;RS;Sul;Santa Maria;Paraíso do Sul;Estadual;Pública;56;Até 100 km;Regular
+238;RS-239;-;RS;Sul;Riozinho;Novo Hamburgo;Estadual;Concessionada;74;Até 100 km;Regular
+237;BR-116;BR-285: BR-290: BR-386;RS;Sul;Vacaria;Camaquã;Federal;Pública;393;Mais de 250 km até 500 km;Regular
+236;BR-259;-;ES;Sudeste;Baixo Guandu;João Neiva;Federal;Pública;106;Mais de 100 km até 250 km;Regular
+235;BR-316;BR-428;PE;Nordeste;Cabrobó;Inajá;Federal;Pública;166;Mais de 100 km até 250 km;Regular
+234;GO-530;BR-251;GO;Centro-Oeste;Aruanã;Araguapaz;Estadual;Pública;55;Até 100 km;Regular
+233;BR-070;BR-163: BR-364;MT;Centro-Oeste;Várzea Grande;Campo Verde;Federal;Concessionada;119;Mais de 100 km até 250 km;Regular
+232;CE-178;BR-403;CE;Nordeste;Morrinhos;Sobral;Estadual;Pública;68;Até 100 km;Regular
+231;BA-160;-;BA;Nordeste;Ibotirama;Bom Jesus da Lapa;Estadual;Pública;139;Mais de 100 km até 250 km;Regular
+230;BR-242;BR-020: BR-122: BR-135: BR-330: BR-349: BR-407: BR-430;BA;Nordeste;Luís Eduardo Magalhães;Rafael Jambeiro;Federal;Pública;844;Mais de 500 km;Regular
+229;BR-367;BR-101;BA;Nordeste;Itagimirim;Santa Cruz Cabrália;Federal;Pública;163;Mais de 100 km até 250 km;Regular
+228;BR-135;BR-020: BR-242: BR-349;BA;Nordeste;Formosa do Rio Preto;Cocos;Federal;Pública;412;Mais de 250 km até 500 km;Regular
+227;RS-223;-;RS;Sul;Tio Hugo;Ibirubá;Estadual;Pública;77;Até 100 km;Regular
+226;BR-101;-;SP;Sudeste;Ubatuba;Ubatuba;Federal;Pública;52;Até 100 km;Regular
+225;BR-414;BR-070: BR-251;GO;Centro-Oeste;Niquelândia;Anápolis;Federal;Pública;237;Mais de 100 km até 250 km;Regular
+224;BR-158;BR-262;MS;Centro-Oeste;Cassilândia;Brasilândia;Federal;Pública;358;Mais de 250 km até 500 km;Regular
+223;BR-174;BR-210;RR;Norte;Pacaraima;Rorainópolis;Federal;Pública;746;Mais de 500 km;Regular
+222;MG-050;-;MG;Sudeste;Juatuba;São Sebastião do Paraíso;Estadual;Concessionada;337;Mais de 250 km até 500 km;Regular
+221;BR-153;-;RS;Sul;Marcelino Ramos;Erechim;Federal;Pública;54;Até 100 km;Regular
+220;BR-010;BR-222: BR-308: BR-316;PA;Norte;Belém;Dom Eliseu;Federal;Pública;461;Mais de 250 km até 500 km;Regular
+219;BR-060;BR-262: BR-267: BR-419;MS;Centro-Oeste;Campo Grande;Bela Vista;Federal;Pública;359;Mais de 250 km até 500 km;Regular
+218;RS-129;-;RS;Sul;Guaporé;Encantado;Estadual;Concessionada;59;Até 100 km;Regular
+217;RS-453;BR-453;RS;Sul;São Francisco de Paula;São Francisco de Paula;Estadual;Pública;55;Até 100 km;Regular
+216;DF-001;BR-251;DF;Centro-Oeste;Brasília;Brasília;Estadual;Pública;51;Até 100 km;Regular
+215;BR-408;-;PE;Nordeste;Timbaúba;Jaboatão dos Guararapes;Federal;Pública;87;Até 100 km;Regular
+214;BR-210;BR-156;AP;Norte;Ferreira Gomes;Macapá;Federal;Pública;101;Mais de 100 km até 250 km;Regular
+213;GO-070;BR-070;GO;Centro-Oeste;Itapirapuã;Goiânia;Estadual;Pública;187;Mais de 100 km até 250 km;Regular
+212;BR-210;BR-174;RR;Norte;Caracaraí;Caroebe;Federal;Pública;222;Mais de 100 km até 250 km;Regular
+211;BR-471;-;RS;Sul;Santa Cruz do Sul;Pantano Grande;Federal;Pública;59;Até 100 km;Regular
+210;MT-235;-;MT;Centro-Oeste;Nova Mutum;Santa Rita do Trivelato;Estadual;Concessionada;96;Até 100 km;Regular
+209;BR-116;BR-251: BR-267: BR-342: BR-393: BR-451: BR-458;MG;Sudeste;Divisa Alegre;Além Paraíba;Federal;Pública;829;Mais de 500 km;Regular
+208;MT-100;-;MT;Centro-Oeste;Alto Araguaia;Alto Taquari;Estadual;Concessionada;91;Até 100 km;Regular
+207;ES-060;-;ES;Sudeste;Guarapari;Marataízes;Estadual;Pública;61;Até 100 km;Regular
+206;BR-402;BR-343;PI;Nordeste;Luís Correia;Buriti dos Lopes;Federal;Pública;99;Até 100 km;Regular
+205;PR-323;-;PR;Sul;Maringá;Iporã;Estadual;Pública;207;Mais de 100 km até 250 km;Regular
+204;BR-425;BR-364: BR-421;RO;Norte;Porto Velho;Guajará-Mirim;Federal;Pública;149;Mais de 100 km até 250 km;Regular
+203;BR-267;BR-060: BR-419;MS;Centro-Oeste;Porto Murtinho;Bataguassu;Federal;Pública;642;Mais de 500 km;Regular
+202;BR-110;BR-101: BR-420: BR-423;BA;Nordeste;Paulo Afonso;São Sebastião do Passé;Federal;Pública;415;Mais de 250 km até 500 km;Regular
+201;BR-101;BR-235: BR-349;SE;Nordeste;Propriá;Cristinápolis;Federal;Pública;210;Mais de 100 km até 250 km;Regular
+200;BR-471;-;RS;Sul;Rio Grande;Chuí;Federal;Pública;221;Mais de 100 km até 250 km;Regular
+199;BR-222;BR-343;PI;Nordeste;São João do Arraial;São João da Fronteira;Federal;Pública;178;Mais de 100 km até 250 km;Regular
+198;SP-425;BR-265: BR-267;SP;Sudeste;Barretos;Parapuã;Estadual;Pública;237;Mais de 100 km até 250 km;Regular
+197;BR-290;BR-116: BR-153: BR-158: BR-293: BR-377: BR-472: BR-473;RS;Sul;Uruguaiana;Porto Alegre;Federal;Pública;627;Mais de 500 km;Regular
+196;BR-406;BR-101: BR-104;RN;Nordeste;Macau;Natal;Federal;Pública;179;Mais de 100 km até 250 km;Regular
+195;BR-262;BR-381;MG;Sudeste;João Monlevade;Martins Soares;Federal;Pública;198;Mais de 100 km até 250 km;Regular
+194;BR-364;BR-154: BR-461: BR-497;MG;Sudeste;Santa Vitória;Planura;Federal;Pública;241;Mais de 100 km até 250 km;Regular
+193;BR-392;BR-158: BR-287;RS;Sul;Júlio de Castilhos;Santana da Boa Vista;Federal;Pública;238;Mais de 100 km até 250 km;Regular
+192;BR-153;BR-060: BR-452;GO;Centro-Oeste;Anápolis;Itumbiara;Federal;Concessionada;258;Mais de 250 km até 500 km;Regular
+191;BR-392;-;RS;Sul;Porto Xavier;Santo Ângelo;Federal;Pública;102;Mais de 100 km até 250 km;Regular
+190;BR-101;BR-030: BR-110: BR-251: BR-367: BR-415: BR-420;BA;Nordeste;Rio Real;Mucuri;Federal;Pública;954;Mais de 500 km;Regular
+189;GO-118;BR-010;GO;Centro-Oeste;Campos Belos;Planaltina;Estadual;Pública;352;Mais de 250 km até 500 km;Regular
+188;SP-563;BR-158: BR-262;SP;Sudeste;Pereira Barreto;Presidente Venceslau;Estadual;Pública;171;Mais de 100 km até 250 km;Regular
+187;BR-153;BR-262: BR-364: BR-452: BR-464;MG;Sudeste;Araporã;Fronteira;Federal;Concessionada;248;Mais de 100 km até 250 km;Regular
+186;BR-235;BR-135: BR-330;PI;Nordeste;Bom Jesus;Santa Filomena;Federal;Pública;287;Mais de 250 km até 500 km;Regular
+185;BR-232;BR-423;PE;Nordeste;Recife;Parnamirim;Federal;Pública;570;Mais de 500 km;Regular
+184;BR-070;BR-174;MT;Centro-Oeste;Várzea Grande;Cáceres;Federal;Pública;294;Mais de 250 km até 500 km;Regular
+183;BR-430;BR-242;BA;Nordeste;Barreiras;Cristópolis;Federal;Pública;69;Até 100 km;Regular
+182;BR-416;BR-101: BR-104;AL;Nordeste;Novo Lino;São José da Laje;Federal;Pública;63;Até 100 km;Regular
+181;BR-070;BR-158: BR-414;GO;Centro-Oeste;Águas Lindas de Goiás;Cocalzinho de Goiás;Federal;Pública;70;Até 100 km;Regular
+180;GO-244;-;GO;Centro-Oeste;São Miguel do Araguaia;Porangatu;Estadual;Pública;124;Mais de 100 km até 250 km;Regular
+179;BR-104;BR-230;PB;Nordeste;Nova Floresta;Alcantil;Federal;Pública;204;Mais de 100 km até 250 km;Regular
+178;MG-267;BR-267;MG;Sudeste;Machado;Poços de Caldas;Estadual;Pública;74;Até 100 km;Regular
+177;BR-101;BR-304: BR-406;RN;Nordeste;Touros;Baía Formosa;Federal;Pública;185;Mais de 100 km até 250 km;Regular
+176;BR-163;-;MT;Centro-Oeste;Guarantã do Norte;Sinop;Federal;Pública;267;Mais de 250 km até 500 km;Regular
+175;BR-116;BR-122: BR-226: BR-230;CE;Nordeste;Fortaleza;Penaforte;Federal;Pública;560;Mais de 500 km;Regular
+174;BR-352;BR-354: BR-365;MG;Sudeste;Patos de Minas;Arapuá;Federal;Pública;79;Até 100 km;Regular
+173;MG-677;-;MG;Sudeste;Virgem da Lapa;Turmalina;Estadual;Pública;95;Até 100 km;Regular
+172;SP-250;BR-373: BR-476;SP;Sudeste;Capão Bonito;Ribeira;Estadual;Pública;128;Mais de 100 km até 250 km;Regular
+171;GO-080;-;GO;Centro-Oeste;Barro Alto;Goiânia;Estadual;Pública;187;Mais de 100 km até 250 km;Regular
+170;BR-070;BR-158;MT;Centro-Oeste;Campo Verde;Pontal do Araguaia;Federal;Pública;424;Mais de 250 km até 500 km;Regular
+169;BR-402;-;MA;Nordeste;Humberto de Campos;Barreirinhas;Federal;Pública;77;Até 100 km;Regular
+168;BR-153;BR-080: BR-414;GO;Centro-Oeste;Porangatu;Anápolis;Federal;Pública;447;Mais de 250 km até 500 km;Regular
+167;BR-230;BR-116;CE;Nordeste;Ipaumirim;Farias Brito;Federal;Pública;116;Mais de 100 km até 250 km;Regular
+166;BR-135;BR-235: BR-324: BR-330: BR-343;PI;Nordeste;Jerumenha;Cristalândia do Piauí;Federal;Pública;608;Mais de 500 km;Regular
+165;SP-595;-;SP;Sudeste;Três Fronteiras;Ilha Solteira;Estadual;Pública;57;Até 100 km;Regular
+164;BR-230;BR-010: BR-135: BR-226;MA;Nordeste;Estreito;Barão de Grajaú;Federal;Pública;671;Mais de 500 km;Regular
+163;BR-428;BR-122: BR-235: BR-316: BR-407;PE;Nordeste;Belém do São Francisco;Petrolina;Federal;Pública;197;Mais de 100 km até 250 km;Regular
+162;BR-452;BR-154: BR-483;GO;Centro-Oeste;Rio Verde;Itumbiara;Federal;Pública;197;Mais de 100 km até 250 km;Regular
+161;BR-308;BR-010: BR-316;PA;Norte;Augusto Corrêa;Belém;Federal;Pública;227;Mais de 100 km até 250 km;Regular
+160;BR-235;BR-101: BR-349;SE;Nordeste;Carira;Aracaju;Federal;Pública;116;Mais de 100 km até 250 km;Regular
+159;GO-060;-;GO;Centro-Oeste;Piranhas;Goiânia;Estadual;Pública;307;Mais de 250 km até 500 km;Regular
+158;BR-324;BR-116: BR-122: BR-407;BA;Nordeste;Umburanas;Feira de Santana;Federal;Pública;328;Mais de 250 km até 500 km;Regular
+157;BR-365;BR-050: BR-251: BR-352: BR-354: BR-452: BR-497;MG;Sudeste;Montes Claros;Uberlândia;Federal;Pública;627;Mais de 500 km;Regular
+156;BR-423;BR-110;AL;Nordeste;Ouro Branco;Delmiro Gouveia;Federal;Pública;107;Mais de 100 km até 250 km;Regular
+155;BR-472;BR-468;RS;Sul;Três Passos;Santo Cristo;Federal;Pública;81;Até 100 km;Regular
+154;BR-060;BR-158: BR-364;GO;Centro-Oeste;Goiânia;Jataí;Federal;Pública;411;Mais de 250 km até 500 km;Regular
+153;SP-150;BR-050;SP;Sudeste;São Paulo;Santos;Estadual;Concessionada;57;Até 100 km;Regular
+152;BR-226;BR-230;TO;Norte;Aguiarnópolis;Wanderlândia;Federal;Pública;71;Até 100 km;Regular
+151;BR-153;BR-272;PR;Sul;Santo Antônio da Platina;Ipiranga;Federal;Pública;193;Mais de 100 km até 250 km;Regular
+150;BR-467;BR-163;PR;Sul;Marechal Cândido Rondon;Cascavel;Federal;Pública;78;Até 100 km;Regular
+149;BR-412;BR-110;PB;Nordeste;Boa Vista;Monteiro;Federal;Pública;147;Mais de 100 km até 250 km;Regular
+148;PR-487;BR-487;PR;Sul;Campo Mourão;Nova Tebas;Estadual;Pública;84;Até 100 km;Bom
+147;BR-110;BR-226: BR-427;RN;Nordeste;Areia Branca;Janduís;Federal;Pública;152;Mais de 100 km até 250 km;Bom
+146;BR-262;BR-060: BR-158: BR-359;MS;Centro-Oeste;Corumbá;Três Lagoas;Federal;Pública;764;Mais de 500 km;Bom
+145;BR-235;BR-122: BR-324: BR-407;BA;Nordeste;Remanso;Pedro Alexandre;Federal;Pública;600;Mais de 500 km;Bom
+144;ES-080;BR-381;ES;Sudeste;São Domingos do Norte;Colatina;Estadual;Pública;55;Até 100 km;Bom
+143;BR-364;-;MT;Centro-Oeste;Rondonópolis;Alto Araguaia;Federal;Pública;202;Mais de 100 km até 250 km;Bom
+142;BR-010;BR-222: BR-226: BR-230;MA;Nordeste;Itinga do Maranhão;Carolina;Federal;Pública;347;Mais de 250 km até 500 km;Bom
+141;BR-146;-;MG;Sudeste;Patos de Minas;Araxá;Federal;Pública;121;Mais de 100 km até 250 km;Bom
+140;BR-386;BR-153;RS;Sul;Carazinho;Canoas;Federal;Concessionada;255;Mais de 250 km até 500 km;Bom
+139;BR-122;BR-242: BR-330: BR-349;BA;Nordeste;Ibitiara;Seabra;Federal;Pública;73;Até 100 km;Bom
+138;BR-020;-;CE;Nordeste;Eusébio;Parambu;Federal;Pública;440;Mais de 250 km até 500 km;Bom
+137;BR-293;BR-158;RS;Sul;Quaraí;Pelotas;Federal;Pública;436;Mais de 250 km até 500 km;Bom
+136;BR-070;-;GO;Centro-Oeste;Jaraguá;Itaberaí;Federal;Pública;62;Até 100 km;Bom
+135;RS-040;-;RS;Sul;Viamão;Balneário Pinhal;Estadual;Concessionada;83;Até 100 km;Bom
+134;BR-432;-;RR;Norte;Cantá;Caracaraí;Federal;Pública;184;Mais de 100 km até 250 km;Bom
+133;BR-101;-;PE;Nordeste;Goiana;Xexéu;Federal;Pública;240;Mais de 100 km até 250 km;Bom
+132;BR-101;BR-104: BR-416;AL;Nordeste;Novo Lino;Porto Real do Colégio;Federal;Pública;262;Mais de 250 km até 500 km;Bom
+131;BR-163;BR-070: BR-364;MT;Centro-Oeste;Sinop;Itiquira;Federal;Concessionada;843;Mais de 500 km;Bom
+130;BR-153;BR-290: BR-473;RS;Sul;Novo Cabrais;Aceguá;Federal;Pública;325;Mais de 250 km até 500 km;Bom
+129;BR-262;BR-040: BR-050: BR-153: BR-354: BR-364: BR-381: BR-464;MG;Sudeste;Belo Horizonte;Fronteira;Federal;Concessionada;670;Mais de 500 km;Bom
+128;BR-418;-;BA;Nordeste;Caravelas;Mucuri;Federal;Pública;125;Mais de 100 km até 250 km;Bom
+127;BR-158;BR-070: BR-242: BR-251;MT;Centro-Oeste;Vila Rica;Pontal do Araguaia;Federal;Pública;661;Mais de 500 km;Bom
+126;BR-393;BR-040: BR-116;RJ;Sudeste;Carmo;Volta Redonda;Federal;Concessionada;198;Mais de 100 km até 250 km;Bom
+125;PR-323;-;PR;Sul;Sertaneja;Londrina;Estadual;Concessionada;61;Até 100 km;Bom
+124;BR-251;BR-116: BR-122: BR-365;MG;Sudeste;Pedra Azul;Montes Claros;Federal;Pública;368;Mais de 250 km até 500 km;Bom
+123;SP-322;BR-265;SP;Sudeste;Icém;Bebedouro;Estadual;Pública;105;Mais de 100 km até 250 km;Bom
+122;BR-222;BR-403;CE;Nordeste;Fortaleza;Ubajara;Federal;Pública;360;Mais de 250 km até 500 km;Bom
+121;RS-287;BR-153: BR-287: BR-470: BR-471;RS;Sul;Montenegro;Paraíso do Sul;Estadual;Concessionada;157;Mais de 100 km até 250 km;Bom
+120;BR-364;BR-174;MT;Centro-Oeste;Comodoro;Diamantino;Federal;Pública;767;Mais de 500 km;Bom
+119;BA-262;BR-407;BA;Nordeste;Brumado;Vitória da Conquista;Estadual;Pública;126;Mais de 100 km até 250 km;Bom
+118;BR-493;-;RJ;Sudeste;Itaboraí;Itaguaí;Federal;Pública;102;Mais de 100 km até 250 km;Bom
+117;BR-020;BR-135: BR-242: BR-349;BA;Nordeste;Riachão das Neves;Jaborandi;Federal;Pública;408;Mais de 250 km até 500 km;Bom
+116;BR-304;BR-101: BR-104: BR-226;RN;Nordeste;Mossoró;Natal;Federal;Pública;321;Mais de 250 km até 500 km;Bom
+115;BR-304;-;CE;Nordeste;Beberibe;Aracati;Federal;Pública;103;Mais de 100 km até 250 km;Bom
+114;BR-230;BR-316: BR-343: BR-407;PI;Nordeste;Floriano;Fronteiras;Federal;Pública;316;Mais de 250 km até 500 km;Bom
+113;BR-316;BR-226: BR-230: BR-343: BR-407;PI;Nordeste;Teresina;Marcolândia;Federal;Pública;423;Mais de 250 km até 500 km;Bom
+112;BR-487;-;MS;Centro-Oeste;Itaquiraí;Naviraí;Federal;Pública;52;Até 100 km;Bom
+111;BR-104;BR-101: BR-416;AL;Nordeste;São José da Laje;Maceió;Federal;Pública;111;Mais de 100 km até 250 km;Bom
+110;BA-099;-;BA;Nordeste;Jandaíra;Lauro de Freitas;Estadual;Concessionada;188;Mais de 100 km até 250 km;Bom
+109;BR-040;BR-135: BR-262: BR-267: BR-356: BR-381: BR-383;MG;Sudeste;Paracatu;Simão Pereira;Federal;Concessionada;836;Mais de 500 km;Bom
+108;BR-381;BR-116;SP;Sudeste;Vargem;São Paulo;Federal;Concessionada;94;Até 100 km;Bom
+107;BR-272;BR-487;PR;Sul;Campo Mourão;Goioerê;Federal;Pública;78;Até 100 km;Bom
+106;SP-160;-;SP;Sudeste;São Paulo;Praia Grande;Estadual;Concessionada;73;Até 100 km;Bom
+105;BR-392;BR-116: BR-293: BR-471;RS;Sul;Santana da Boa Vista;Rio Grande;Federal;Concessionada;201;Mais de 100 km até 250 km;Bom
+104;BR-419;BR-060: BR-267;MS;Centro-Oeste;Anastácio;Jardim;Federal;Pública;137;Mais de 100 km até 250 km;Bom
+103;BR-242;BR-010: BR-153;TO;Norte;Formoso do Araguaia;Taguatinga;Federal;Pública;485;Mais de 250 km até 500 km;Bom
+102;BR-381;BR-040: BR-262: BR-265: BR-494;MG;Sudeste;Belo Horizonte;Extrema;Federal;Concessionada;483;Mais de 250 km até 500 km;Bom
+101;BR-316;BR-010: BR-308;PA;Norte;Belém;Cachoeira do Piriá;Federal;Pública;276;Mais de 250 km até 500 km;Bom
+100;BR-407;BR-122: BR-235: BR-324;BA;Nordeste;Juazeiro;Capim Grosso;Federal;Pública;238;Mais de 100 km até 250 km;Bom
+99;SP-304;-;SP;Sudeste;Jaú;Piracicaba;Estadual;Concessionada;122;Mais de 100 km até 250 km;Bom
+98;BR-101;BR-356;RJ;Sudeste;Campos dos Goytacazes;Rio de Janeiro;Federal;Concessionada;336;Mais de 250 km até 500 km;Bom
+97;BR-101;BR-262: BR-342;ES;Sudeste;Pedro Canário;Mimoso do Sul;Federal;Concessionada;472;Mais de 250 km até 500 km;Bom
+96;BR-463;-;MS;Centro-Oeste;Dourados;Ponta Porã;Federal;Pública;112;Mais de 100 km até 250 km;Bom
+95;SP-461;BR-154;SP;Sudeste;Votuporanga;Bilac;Estadual;Pública;125;Mais de 100 km até 250 km;Bom
+94;BR-316;-;PE;Nordeste;Araripina;Parnamirim;Federal;Pública;145;Mais de 100 km até 250 km;Bom
+93;BR-116;-;PE;Nordeste;Salgueiro;Belém do São Francisco;Federal;Pública;95;Até 100 km;Bom
+92;BR-116;BR-280: BR-477;SC;Sul;Mafra;Capão Alto;Federal;Concessionada;311;Mais de 250 km até 500 km;Bom
+91;BR-458;BR-116;MG;Sudeste;Tarumirim;Ipatinga;Federal;Pública;66;Até 100 km;Bom
+90;BR-163;BR-060: BR-262: BR-267: BR-419: BR-487;MS;Centro-Oeste;Sonora;Mundo Novo;Federal;Concessionada;848;Mais de 500 km;Bom
+89;BR-262;BR-484;ES;Sudeste;Iúna;Vitória;Federal;Pública;188;Mais de 100 km até 250 km;Bom
+88;MG-135;BR-135;MG;Sudeste;Montes Claros;Curvelo;Estadual;Concessionada;303;Mais de 250 km até 500 km;Bom
+87;BR-324;BR-420;BA;Nordeste;Feira de Santana;Salvador;Federal;Concessionada;124;Mais de 100 km até 250 km;Bom
+86;BR-373;BR-277: BR-376: BR-487;PR;Sul;Ponta Grossa;Candói;Federal;Concessionada;210;Mais de 100 km até 250 km;Bom
+85;BR-230;BR-101: BR-104: BR-110: BR-408;PB;Nordeste;Cachoeira dos Índios;Cabedelo;Federal;Pública;530;Mais de 500 km;Bom
+84;BR-040;BR-050;GO;Centro-Oeste;Valparaíso de Goiás;Cristalina;Federal;Concessionada;157;Mais de 100 km até 250 km;Bom
+83;BR-401;-;RR;Norte;Bonfim;Boa Vista;Federal;Pública;125;Mais de 100 km até 250 km;Bom
+82;BR-415;BR-101;BA;Nordeste;Ilhéus;Itapé;Federal;Pública;54;Até 100 km;Bom
+81;BR-110;-;PE;Nordeste;Sertânia;Ibimirim;Federal;Pública;54;Até 100 km;Bom
+80;SP-342;-;SP;Sudeste;Águas da Prata;Mogi Guaçu;Estadual;Concessionada;80;Até 100 km;Bom
+79;BR-116;BR-040: BR-393: BR-492: BR-493;RJ;Sudeste;Carmo;Resende;Federal;Concessionada;343;Mais de 250 km até 500 km;Bom
+78;SP-099;-;SP;Sudeste;São José dos Campos;Caraguatatuba;Estadual;Concessionada;80;Até 100 km;Bom
+77;BA-052;BR-122;BA;Nordeste;Xique-Xique;Feira de Santana;Estadual;Concessionada;462;Mais de 250 km até 500 km;Bom
+76;BR-407;BR-230: BR-316;PI;Nordeste;Picos;Acauã;Federal;Pública;201;Mais de 100 km até 250 km;Bom
+75;MA-402;BR-402;MA;Nordeste;Humberto de Campos;Morros;Estadual;Pública;65;Até 100 km;Bom
+74;SP-351;BR-265;SP;Sudeste;Batatais;Santo Antônio da Alegria;Estadual;Pública;53;Até 100 km;Bom
+73;BR-373;-;PR;Sul;Candói;Coronel Vivida;Federal;Pública;96;Até 100 km;Bom
+72;BR-040;BR-116: BR-393: BR-492;RJ;Sudeste;Comendador Levy Gasparian;Rio de Janeiro;Federal;Concessionada;163;Mais de 100 km até 250 km;Bom
+71;BR-369;BR-376: BR-466;PR;Sul;Jacarezinho;Jandaia do Sul;Federal;Concessionada;188;Mais de 100 km até 250 km;Bom
+70;BR-116;BR-293: BR-392: BR-471;RS;Sul;Camaquã;Jaguarão;Federal;Concessionada;260;Mais de 250 km até 500 km;Bom
+69;SP-021;-;SP;Sudeste;São Paulo;Arujá;Estadual;Concessionada;137;Mais de 100 km até 250 km;Bom
+68;BR-277;BR-116: BR-158: BR-373: BR-376;PR;Sul;Foz do Iguaçu;Paranaguá;Federal;Concessionada;743;Mais de 500 km;Bom
+67;BR-316;BR-424;AL;Nordeste;Mata Grande;Maceió;Federal;Pública;294;Mais de 250 km até 500 km;Bom
+66;BR-153;BR-242;TO;Norte;Xambioá;Talismã;Federal;Pública;801;Mais de 500 km;Bom
+65;BR-080;BR-153: BR-251;GO;Centro-Oeste;São Miguel do Araguaia;Padre Bernardo;Federal;Pública;352;Mais de 250 km até 500 km;Bom
+64;BR-343;BR-135: BR-222: BR-226: BR-230: BR-316: BR-324: BR-402: BR-404: BR-407;PI;Nordeste;Luís Correia;Bertolínia;Federal;Pública;747;Mais de 500 km;Bom
+63;SP-215;BR-267: BR-369;SP;Sudeste;Vargem Grande do Sul;São Carlos;Estadual;Concessionada;115;Mais de 100 km até 250 km;Bom
+62;BR-116;BR-101: BR-381: BR-383: BR-459: BR-478;SP;Sudeste;Queluz;Barra do Turvo;Federal;Concessionada;561;Mais de 500 km;Bom
+61;BR-364;BR-483;GO;Centro-Oeste;Jataí;São Simão;Federal;Concessionada;192;Mais de 100 km até 250 km;Bom
+60;BR-153;BR-369;SP;Sudeste;Icém;Ourinhos;Federal;Concessionada;322;Mais de 250 km até 500 km;Bom
+59;BR-376;BR-116: BR-277: BR-369: BR-373: BR-466: BR-487;PR;Sul;Nova Londrina;Guaratuba;Federal;Concessionada;649;Mais de 500 km;Bom
+58;SP-340;-;SP;Sudeste;Mococa;Campinas;Estadual;Concessionada;166;Mais de 100 km até 250 km;Bom
+57;BR-116;BR-030: BR-242: BR-330;BA;Nordeste;Feira de Santana;Encruzilhada;Federal;Concessionada;553;Mais de 500 km;Bom
+56;SP-351;-;SP;Sudeste;Viradouro;Catanduva;Estadual;Concessionada;85;Até 100 km;Bom
+55;BR-330;BR-135: BR-235;PI;Nordeste;Bom Jesus;Redenção do Gurguéia;Federal;Pública;56;Até 100 km;Bom
+54;SP-326;BR-364;SP;Sudeste;Barretos;Matão;Estadual;Concessionada;133;Mais de 100 km até 250 km;Bom
+53;BR-407;BR-122: BR-235: BR-428;PE;Nordeste;Afrânio;Petrolina;Federal;Pública;132;Mais de 100 km até 250 km;Bom
+52;BR-356;-;MG;Sudeste;Nova Lima;Mariana;Federal;Pública;84;Até 100 km;Bom
+51;BR-060;BR-153;GO;Centro-Oeste;Santo Antônio do Descoberto;Goiânia;Federal;Concessionada;139;Mais de 100 km até 250 km;Bom
+50;BR-050;BR-040: BR-352: BR-457;GO;Centro-Oeste;Valparaíso de Goiás;Cumari;Federal;Concessionada;317;Mais de 250 km até 500 km;Bom
+49;BR-424;BR-316;AL;Nordeste;Atalaia;Marechal Deodoro;Federal;Pública;57;Até 100 km;Bom
+48;BR-101;BR-230;PB;Nordeste;Mataraca;Caaporã;Federal;Pública;134;Mais de 100 km até 250 km;Bom
+47;BR-369;BR-158;PR;Sul;Campo Mourão;Cascavel;Federal;Concessionada;179;Mais de 100 km até 250 km;Bom
+46;SP-270;-;SP;Sudeste;Ourinhos;Itapetininga;Estadual;Pública;214;Mais de 100 km até 250 km;Bom
+45;SP-425;-;SP;Sudeste;Presidente Prudente;Pirapozinho;Estadual;Pública;69;Até 100 km;Bom
+44;BR-116;BR-277: BR-376;PR;Sul;Campina Grande do Sul;Rio Negro;Federal;Concessionada;243;Mais de 100 km até 250 km;Bom
+43;SP-463;-;SP;Sudeste;Ouroeste;Clementina;Estadual;Pública;192;Mais de 100 km até 250 km;Bom
+42;BR-487;BR-272;PR;Sul;Cruzeiro do Oeste;Campo Mourão;Federal;Pública;72;Até 100 km;Bom
+41;BR-230;BR-226;TO;Norte;Araguatins;Aguiarnópolis;Federal;Pública;147;Mais de 100 km até 250 km;Bom
+40;SP-284;-;SP;Sudeste;Martinópolis;Assis;Estadual;Concessionada;103;Mais de 100 km até 250 km;Bom
+39;SP-255;BR-272;SP;Sudeste;Ribeirão Preto;Itaporanga;Estadual;Concessionada;348;Mais de 250 km até 500 km;Bom
+38;SP-258;-;SP;Sudeste;Capão Bonito;Itararé;Estadual;Concessionada;120;Mais de 100 km até 250 km;Bom
+37;SP-332;-;SP;Sudeste;Mogi Guaçu;Campinas;Estadual;Concessionada;76;Até 100 km;Bom
+36;PR-317;-;PR;Sul;Maringá;Peabiru;Estadual;Concessionada;80;Até 100 km;Bom
+35;SP-294;BR-153: BR-158;SP;Sudeste;Panorama;Bauru;Estadual;Concessionada;331;Mais de 250 km até 500 km;Bom
+34;SP-425;-;SP;Sudeste;Parapuã;Presidente Prudente;Estadual;Concessionada;76;Até 100 km;Bom
+33;BR-359;-;MS;Centro-Oeste;Costa Rica;Coxim;Federal;Pública;206;Mais de 100 km até 250 km;Bom
+32;BR-290;BR-101: BR-116;RS;Sul;Osório;Porto Alegre;Federal;Concessionada;98;Até 100 km;Bom
+31;BR-365;BR-050: BR-154: BR-364: BR-452;MG;Sudeste;Uberlândia;Santa Vitória;Federal;Concessionada;249;Mais de 100 km até 250 km;Bom
+30;BR-101;BR-282: BR-376: BR-486;SC;Sul;Garuva;Passo de Torres;Federal;Concessionada;472;Mais de 250 km até 500 km;Bom
+29;SP-270;BR-272: BR-373;SP;Sudeste;Cotia;Itapetininga;Estadual;Concessionada;135;Mais de 100 km até 250 km;Bom
+28;SP-191;-;SP;Sudeste;Mogi Mirim;São Pedro;Estadual;Concessionada;113;Mais de 100 km até 250 km;Bom
+27;BR-020;BR-010: BR-030;DF;Centro-Oeste;Brasília;Brasília;Federal;Pública;58;Até 100 km;Bom
+26;BR-101;BR-290;RS;Sul;Torres;Osório;Federal;Concessionada;95;Até 100 km;Bom
+25;BR-050;BR-262: BR-365: BR-455: BR-464;MG;Sudeste;Araguari;Delta;Federal;Concessionada;214;Mais de 100 km até 250 km;Bom
+24;SP-333;BR-153;SP;Sudeste;Sertãozinho;Florínia;Estadual;Concessionada;362;Mais de 250 km até 500 km;Bom
+23;SP-065;-;SP;Sudeste;Campinas;Jacareí;Estadual;Concessionada;147;Mais de 100 km até 250 km;Bom
+22;SP-070;-;SP;Sudeste;Taubaté;Guarulhos;Estadual;Concessionada;136;Mais de 100 km até 250 km;Bom
+21;ES-060;-;ES;Sudeste;Vitória;Guarapari;Estadual;Concessionada;65;Até 100 km;Bom
+20;PR-151;-;PR;Sul;Sengés;Ponta Grossa;Estadual;Concessionada;152;Mais de 100 km até 250 km;Bom
+19;CE-040;-;CE;Nordeste;Eusébio;Aracati;Estadual;Pública;128;Mais de 100 km até 250 km;Ótimo
+18;SP-322;BR-265;SP;Sudeste;Bebedouro;Ribeirão Preto;Estadual;Concessionada;87;Até 100 km;Ótimo
+17;SP-310;BR-262: BR-456;SP;Sudeste;Ilha Solteira;Mirassol;Estadual;Pública;210;Mais de 100 km até 250 km;Ótimo
+16;RJ-124;-;RJ;Sudeste;Rio Bonito;São Pedro da Aldeia;Estadual;Concessionada;57;Até 100 km;Ótimo
+15;BR-020;BR-030: BR-349;GO;Centro-Oeste;Guarani de Goiás;Formosa;Federal;Pública;247;Mais de 100 km até 250 km;Ótimo
+14;SP-101;-;SP;Sudeste;Campinas;Tietê;Estadual;Concessionada;72;Até 100 km;Ótimo
+13;SP-310;BR-267: BR-364: BR-456;SP;Sudeste;Mirassol;Cordeirópolis;Estadual;Concessionada;303;Mais de 250 km até 500 km;Ótimo
+12;SP-127;BR-373;SP;Sudeste;Rio Claro;Capão Bonito;Estadual;Concessionada;196;Mais de 100 km até 250 km;Ótimo
+11;SP-270;BR-267: BR-374;SP;Sudeste;Presidente Epitácio;Ourinhos;Estadual;Concessionada;272;Mais de 250 km até 500 km;Ótimo
+10;SP-147;BR-373;SP;Sudeste;Itapira;Piracicaba;Estadual;Concessionada;89;Até 100 km;Ótimo
+9;SP-330;BR-050: BR-267;SP;Sudeste;Igarapava;São Paulo;Estadual;Concessionada;441;Mais de 250 km até 500 km;Ótimo
+8;SP-308;BR-478;SP;Sudeste;Charqueada;Salto;Estadual;Concessionada;83;Até 100 km;Ótimo
+7;SP-300;BR-154: BR-262: BR-267;SP;Sudeste;Castilho;Jundiaí;Estadual;Concessionada;608;Mais de 500 km;Ótimo
+6;SP-075;-;SP;Sudeste;Campinas;Sorocaba;Estadual;Concessionada;78;Até 100 km;Ótimo
+5;SP-280;BR-374;SP;Sudeste;Santa Cruz do Rio Pardo;São Paulo;Estadual;Concessionada;303;Mais de 250 km até 500 km;Ótimo
+4;SP-334;-;SP;Sudeste;Cristais Paulista;Ribeirão Preto;Estadual;Concessionada;89;Até 100 km;Ótimo
+3;SP-225;BR-369;SP;Sudeste;Itirapina;Santa Cruz do Rio Pardo;Estadual;Concessionada;225;Mais de 100 km até 250 km;Ótimo
+2;SP-348;-;SP;Sudeste;Cordeirópolis;São Paulo;Estadual;Concessionada;157;Mais de 100 km até 250 km;Ótimo
+1;SP-320;-;SP;Sudeste;Rubinéia;Mirassol;Estadual;Pública;185;Mais de 100 km até 250 km;Ótimo
