@@ -161,7 +161,7 @@ def log_bin(data, bin_start=1., first_bin_width=1., a=2., datatype='float', drop
     indices = np.digitize(data, bins[1:])
     counts = [0. for x in bins[1:]]
     for i in indices:
-        counts[i] += 1#./num_datapoints
+        counts[i] += 1./num_datapoints
         
     # normalise number of datapoints by the width of the bin
     # how we do this depends on whether we are binning integers or real numbers
