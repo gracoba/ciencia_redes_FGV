@@ -1,3 +1,6 @@
+# Importando bibliotecas
+import network as nx
+
 # Write a function that identifies all nodes in a triangle relationship with a given node.
 def node_triplets(G, n):
     """
