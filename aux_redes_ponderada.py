@@ -1,5 +1,23 @@
 # Importando bibliotecas
+import math
+import pandas as pd
+
 import networkx as nx
+from  networkx.algorithms import  tree
+
+import numpy as np
+import matplotlib.pyplot as plt
+import csv
+
+from google.colab import files
+from itertools import combinations
+from itertools import combinations_with_replacement
+
+from scipy.stats import binom
+
+import functools
+
+from math import radians, degrees, sin, cos, asin, acos, sqrt
 
 # Write a function that identifies all nodes in a triangle relationship with a given node.
 def node_triplets(G, n):
